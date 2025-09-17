@@ -1,0 +1,15 @@
+
+/* Class = "UITabBarItem"; title = "Live"; ObjectID = "6aE-po-1nj"; */
+"6aE-po-1nj.title" = "जीना";
+
+/* Class = "UITabBarItem"; title = "Categories"; ObjectID = "Rye-dZ-dai"; */
+"Rye-dZ-dai.title" = "श्रेणियाँ";
+
+/* Class = "UITabBarItem"; title = "Menu"; ObjectID = "bSs-Ce-ZdF"; */
+"bSs-Ce-ZdF.title" = "मेन्यू";
+
+/* Class = "UITabBarItem"; title = "Playlist"; ObjectID = "fO3-FX-xRC"; */
+"fO3-FX-xRC.title" = "प्लेलिस्ट";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "okS-qU-jUe"; */
+"okS-qU-jUe.title" = "होम";

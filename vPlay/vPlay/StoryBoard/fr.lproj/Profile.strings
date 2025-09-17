@@ -1,0 +1,63 @@
+
+/* Class = "UINavigationItem"; title = "Cropped Image"; ObjectID = "3Dg-XD-BeW"; */
+"3Dg-XD-BeW.title" = "Image recadrée";
+
+/* Class = "UISearchBar"; placeholder = "search..."; ObjectID = "3Gm-Oo-YXM"; */
+"3Gm-Oo-YXM.placeholder" = "chercher...";
+
+/* Class = "UIButton"; normalTitle = "Random"; ObjectID = "4bi-YK-Wtp"; */
+"4bi-YK-Wtp.normalTitle" = "au hasard";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "7hb-Aa-ocD"; */
+"7hb-Aa-ocD.text" = "prénom";
+
+/* Class = "UINavigationItem"; title = "Crop View"; ObjectID = "8Pk-eY-BSD"; */
+"8Pk-eY-BSD.title" = "Crop View";
+
+/* Class = "UIButton"; normalTitle = "Rotate"; ObjectID = "Dzt-28-xyK"; */
+"Dzt-28-xyK.normalTitle" = "Tourner";
+
+/* Class = "UITextField"; placeholder = "Enter the name"; ObjectID = "EU8-il-Pdb"; */
+"EU8-il-Pdb.placeholder" = "Entrez le nom";
+
+/* Class = "UITextField"; placeholder = "DD-MM-YYYY"; ObjectID = "I4l-ma-fXM"; */
+"I4l-ma-fXM.placeholder" = "DD-MM-YYYY";
+
+/* Class = "UIButton"; normalTitle = "Overlay"; ObjectID = "JPd-sy-wm5"; */
+"JPd-sy-wm5.normalTitle" = "Recouvrir";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Kzs-Uz-PsF"; */
+"Kzs-Uz-PsF.normalTitle" = "Retour";
+
+/* Class = "UILabel"; text = "+1 091"; ObjectID = "Lq7-V2-rZP"; */
+"Lq7-V2-rZP.text" = "+1 091";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "RXk-Q6-Vo8"; */
+"RXk-Q6-Vo8.normalTitle" = "Terminé";
+
+/* Class = "UIButton"; normalTitle = "Crop"; ObjectID = "RzE-Bn-uGc"; */
+"RzE-Bn-uGc.normalTitle" = "Surgir";
+
+/* Class = "UITextField"; placeholder = "Enter the email id"; ObjectID = "TVr-5u-ONx"; */
+"TVr-5u-ONx.placeholder" = "Entrez l'id email";
+
+/* Class = "UITextField"; placeholder = "Enter mobile number"; ObjectID = "beS-AO-drz"; */
+"beS-AO-drz.placeholder" = "Entrez le numéro de portable";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "crf-5v-5sN"; */
+"crf-5v-5sN.normalTitle" = "Retour";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "eQI-7l-mtr"; */
+"eQI-7l-mtr.text" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "inW-Xa-5Gv"; */
+"inW-Xa-5Gv.normalTitle" = "Mettre à jour";
+
+/* Class = "UILabel"; text = "DOB(DD-MM-YYYY)"; ObjectID = "lNj-zL-ClA"; */
+"lNj-zL-ClA.text" = "DOB(DD-MM-YYYY)";
+
+/* Class = "UILabel"; text = "Mobile"; ObjectID = "wXB-7n-kiZ"; */
+"wXB-7n-kiZ.text" = "Mobile";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "xWk-y7-SN6"; */
+"xWk-y7-SN6.normalTitle" = "Réinitialiser";

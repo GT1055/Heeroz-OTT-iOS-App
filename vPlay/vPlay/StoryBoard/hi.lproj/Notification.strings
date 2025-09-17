@@ -1,0 +1,102 @@
+
+/* Class = "UILabel"; text = "Change your account password"; ObjectID = "0p6-th-zCC"; */
+"0p6-th-zCC.text" = "अपना खाता पासवर्ड बदलें";
+
+/* Class = "UILabel"; text = "Get notified when someone replied to your comment"; ObjectID = "2eT-ZS-cHS"; */
+"2eT-ZS-cHS.text" = "जब किसी ने आपकी टिप्पणी का जवाब दिया तो सूचित हो जाएं";
+
+/* Class = "UILabel"; text = "Questions? Comments? We'd love to hear from you please don't hesitate to get in touch"; ObjectID = "3Up-Wv-DiA"; */
+"3Up-Wv-DiA.text" = "अधिसूचनाएं प्राप्त करें जब किसी ने आपकी टिप्पणी का जवाब दिया";
+
+/* Class = "UILabel"; text = "Reply comments "; ObjectID = "5KM-Hu-nhs"; */
+"5KM-Hu-nhs.text" = "जवाब दें ";
+
+/* Class = "UILabel"; text = "Enter Your Phone Number"; ObjectID = "5Lg-My-DFf"; */
+"5Lg-My-DFf.text" = "अपना मोबाइल नंबर दर्ज करें";
+
+/* Class = "UITextField"; placeholder = "Enter name"; ObjectID = "5cc-sr-KvC"; */
+"5cc-sr-KvC.placeholder" = "नाम दर्ज";
+
+/* Class = "UILabel"; text = "On/Off videos playing automatically"; ObjectID = "COc-xf-alK"; */
+"COc-xf-alK.text" = "चालू / बंद वीडियो स्वचालित रूप से खेल रहे हैं";
+
+/* Class = "UILabel"; text = "New Videos"; ObjectID = "D2N-Rh-n2z"; */
+"D2N-Rh-n2z.text" = "नए वीडियो";
+
+/* Class = "UILabel"; text = "Leave Your Message Here"; ObjectID = "EGn-89-i37"; */
+"EGn-89-i37.text" = "यहां अपना संदेश छोड़ दो";
+
+/* Class = "UILabel"; text = "You can cancel your subscription"; ObjectID = "GVP-rc-bRA"; */
+"GVP-rc-bRA.text" = "आप अपनी सदस्यता रद्द कर सकते हैं";
+
+/* Class = "UIButton"; normalTitle = "  Clear All  "; ObjectID = "GWl-Qa-xvJ"; */
+"GWl-Qa-xvJ.normalTitle" = "  सभी साफ करें  ";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "I4k-xo-KiD"; */
+"I4k-xo-KiD.normalTitle" = "जमा करें";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "Je6-Yq-cc8"; */
+"Je6-Yq-cc8.normalTitle" = "अद्यतन करें";
+
+/* Class = "UILabel"; text = "New Password"; ObjectID = "Ksc-PP-2dE"; */
+"Ksc-PP-2dE.text" = "नया पासवर्ड";
+
+/* Class = "UILabel"; text = "Enter Your Name"; ObjectID = "Lei-53-fpH"; */
+"Lei-53-fpH.text" = "अपना नाम दर्ज करें";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "LsB-5m-ozZ"; */
+"LsB-5m-ozZ.text" = "सूचना";
+
+/* Class = "UILabel"; text = "Get notified when new videos added"; ObjectID = "Mfi-vi-4tx"; */
+"Mfi-vi-4tx.text" = "नए वीडियो जोड़े जाने पर अधिसूचित हो जाएं";
+
+/* Class = "UITextField"; placeholder = "Enter email"; ObjectID = "Nlq-yK-lxb"; */
+"Nlq-yK-lxb.placeholder" = "ईमेल दर्ज करें";
+
+/* Class = "UITextField"; placeholder = "Enter phone number"; ObjectID = "PTn-C1-EQT"; */
+"PTn-C1-EQT.placeholder" = "फोन नंबर दर्ज";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "Twe-ag-eAQ"; */
+"Twe-ag-eAQ.text" = "पासवर्ड बदलें";
+
+/* Class = "UILabel"; text = "Autoplay Videos"; ObjectID = "WSE-VD-8fm"; */
+"WSE-VD-8fm.text" = "ऑटोप्ले वीडियो";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Y3o-0S-Iz8"; */
+"Y3o-0S-Iz8.normalTitle" = "रद्द करना";
+
+/* Class = "UILabel"; text = "Current Password"; ObjectID = "Yry-JW-qgU"; */
+"Yry-JW-qgU.text" = "वर्तमान पासवर्ड";
+
+/* Class = "UILabel"; text = "(Max 250 Letters)"; ObjectID = "aeU-dv-iuq"; */
+"aeU-dv-iuq.text" = "(अधिकतम 250 पत्र)";
+
+/* Class = "UILabel"; text = "+1 091"; ObjectID = "czr-AK-Ldf"; */
+"czr-AK-Ldf.text" = "+1 091";
+
+/* Class = "UILabel"; text = "On/Off message notification"; ObjectID = "gsE-Bu-PvV"; */
+"gsE-Bu-PvV.text" = "संदेश अधिसूचना चालू / बंद करें";
+
+/* Class = "UITextField"; placeholder = "Confirm New Password"; ObjectID = "hmj-Eb-dnG"; */
+"hmj-Eb-dnG.placeholder" = "नए पासवर्ड की पुष्टि करें";
+
+/* Class = "UITextField"; placeholder = "Enter New Password"; ObjectID = "iPE-HI-6nf"; */
+"iPE-HI-6nf.placeholder" = "नया पासवर्ड दर्ज करें";
+
+/* Class = "UILabel"; text = "Let's Talk"; ObjectID = "kUt-2r-NaW"; */
+"kUt-2r-NaW.text" = "चल बात करते है";
+
+/* Class = "UILabel"; text = "All Notification"; ObjectID = "ruh-ke-Lnc"; */
+"ruh-ke-Lnc.text" = "सभी अधिसूचना";
+
+/* Class = "UILabel"; text = "Subscription"; ObjectID = "sQ7-yt-Gof"; */
+"sQ7-yt-Gof.text" = "अंशदान";
+
+/* Class = "UITextField"; placeholder = "Enter Your Current Password"; ObjectID = "w2X-uQ-r3t"; */
+"w2X-uQ-r3t.placeholder" = "अपना वर्तमान पासवर्ड दर्ज करें";
+
+/* Class = "UILabel"; text = "Enter Your Valid Email ID"; ObjectID = "xd4-6y-9gw"; */
+"xd4-6y-9gw.text" = "अपनी ईमेल आईडी दर्ज करें";
+
+/* Class = "UILabel"; text = "Confirm New Password"; ObjectID = "z3A-nZ-gYq"; */
+"z3A-nZ-gYq.text" = "नए पासवर्ड की पुष्टि करें";

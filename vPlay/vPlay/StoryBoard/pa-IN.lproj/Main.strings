@@ -1,0 +1,108 @@
+
+/* Class = "UILabel"; text = "........."; ObjectID = "0bQ-1A-YyF"; */
+"0bQ-1A-YyF.text" = ".........";
+
+/* Class = "UITextField"; placeholder = "Enter a email"; ObjectID = "0yB-Qi-oGg"; */
+"0yB-Qi-oGg.placeholder" = "ਇੱਕ ਈਮੇਲ ਦਰਜ ਕਰੋ";
+
+/* Class = "UILabel"; text = "Already have an account? "; ObjectID = "24F-Y0-2jB"; */
+"24F-Y0-2jB.text" = "ਪਹਿਲਾਂ ਤੋਂ ਹੀ ਕੋਈ ਖਾਤਾ ਹੈ?  ";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "2aZ-2K-GLA"; */
+"2aZ-2K-GLA.text" = "ਈ-ਮੇਲ";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "4hd-zi-ISD"; */
+"4hd-zi-ISD.text" = "ਈ-ਮੇਲ";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "7UI-1f-nYZ"; */
+"7UI-1f-nYZ.text" = "ਪਾਸਵਰਡ";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "7nm-l4-kkB"; */
+"7nm-l4-kkB.normalTitle" = ">ਸਾਈਨ-ਇਨ";
+
+/* Class = "UILabel"; text = "Don't have an account? Please"; ObjectID = "CL6-3x-5Eg"; */
+"CL6-3x-5Eg.text" = "ਕੀ ਤੁਹਾਡਾ ਕੋਈ ਖਾਤਾ ਨਹੀਂ ਹੈ? ਕ੍ਰਿਪਾ ਕਰਕੇ";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "J7o-f7-d9L"; */
+"J7o-f7-d9L.text" = "ਈ-ਮੇਲ";
+
+/* Class = "UILabel"; text = " Password (min 6 characters)"; ObjectID = "MUR-Tj-Vuy"; */
+"MUR-Tj-Vuy.text" = " ਪਾਸਵਰਡ (ਘੱਟੋ ਘੱਟ 6 ਅੱਖਰ)";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "N1M-fe-tiP"; */
+"N1M-fe-tiP.normalTitle" = "ਹੋ ਗਿਆ";
+
+/* Class = "UILabel"; text = "Forgot Password ?"; ObjectID = "Ofn-ng-An6"; */
+"Ofn-ng-An6.text" = "ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ ?";
+
+/* Class = "UITextField"; placeholder = "Enter a email"; ObjectID = "PhI-uS-Cje"; */
+"PhI-uS-Cje.placeholder" = "ਇੱਕ ਈਮੇਲ ਦਰਜ ਕਰੋ";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "RV7-DL-Qpu"; */
+"RV7-DL-Qpu.normalTitle" = "ਸਾਇਨ ਅਪ";
+
+/* Class = "UILabel"; text = "Select Your Date Of Birth"; ObjectID = "SR3-mK-B3z"; */
+"SR3-mK-B3z.text" = "ਆਪਣੀ ਜਨਮ ਮਿਤੀ ਦੀ ਚੋਣ ਕਰੋ";
+
+/* Class = "UITextField"; placeholder = "Enter a password"; ObjectID = "TYz-wt-rgL"; */
+"TYz-wt-rgL.placeholder" = "ਇੱਕ ਪਾਸਵਰਡ ਦਿਓ";
+
+/* Class = "UILabel"; text = "Or"; ObjectID = "TcW-5b-pxC"; */
+"TcW-5b-pxC.text" = "ਜਾਂ";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "UXh-jy-tMG"; */
+"UXh-jy-tMG.normalTitle" = "ਸਾਇਨ ਅਪ";
+
+/* Class = "UILabel"; text = "Continue with Google"; ObjectID = "Ulo-KW-lqr"; */
+"Ulo-KW-lqr.text" = "ਗੂਗਲ ਦੇ ਨਾਲ ਜਾਰੀ ਰੱਖੋ";
+
+/* Class = "UILabel"; text = "Continue with Facebook"; ObjectID = "baX-Ga-qPT"; */
+"baX-Ga-qPT.text" = "ਫੇਸਬੁੱਕ ਨਾਲ ਜਾਰੀ ਰੱਖੋ";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "c9d-ec-GgA"; */
+"c9d-ec-GgA.title" = "मद";
+
+/* Class = "UILabel"; text = "........."; ObjectID = "cCn-D4-imG"; */
+"cCn-D4-imG.text" = ".........";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "dCQ-Ra-ZN5"; */
+"dCQ-Ra-ZN5.text" = "ਨਾਮ";
+
+/* Class = "UILabel"; text = "........."; ObjectID = "dSD-Pn-rwu"; */
+"dSD-Pn-rwu.text" = ".........";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "dke-fw-I4S"; */
+"dke-fw-I4S.normalTitle" = "ਰੱਦ ਕਰੋ";
+
+/* Class = "UILabel"; text = "Continue with Google"; ObjectID = "hrJ-fQ-RLP"; */
+"hrJ-fQ-RLP.text" = "ਗੂਗਲ ਦੇ ਨਾਲ ਜਾਰੀ ਰੱਖੋ";
+
+/* Class = "UILabel"; text = "Or"; ObjectID = "iO6-l1-ASe"; */
+"iO6-l1-ASe.text" = "ਜਾਂ";
+
+/* Class = "UITextField"; placeholder = "Enter a password"; ObjectID = "jpn-7r-a3p"; */
+"jpn-7r-a3p.placeholder" = "ਇੱਕ ਪਾਸਵਰਡ ਦਿਓ";
+
+/* Class = "UITextField"; placeholder = "Enter name"; ObjectID = "k1I-QO-NHV"; */
+"k1I-QO-NHV.placeholder" = "ਨਾਮ ਦਰਜ ਕਰੋ";
+
+/* Class = "UILabel"; text = "Continue with Facebook"; ObjectID = "kBB-3W-a62"; */
+"kBB-3W-a62.text" = "ਫੇਸਬੁੱਕ ਨਾਲ ਜਾਰੀ ਰੱਖੋ";
+
+/* Class = "UITextField"; placeholder = "Enter a email"; ObjectID = "lW6-BP-W8B"; */
+"lW6-BP-W8B.placeholder" = "ਇੱਕ ਈਮੇਲ ਦਰਜ ਕਰੋ";
+
+/* Class = "UILabel"; text = "........."; ObjectID = "nkh-Zv-iXO"; */
+"nkh-Zv-iXO.text" = ".........";
+
+/* Class = "UILabel"; text = "Please enter your registered email address "; ObjectID = "qB7-H6-44V"; */
+"qB7-H6-44V.text" = "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਰਜਿਸਟਰਡ ਈਮੇਲ ਪਤਾ ਦਾਖਲ ਕਰੋ";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "tBo-M1-Uu1"; */
+"tBo-M1-Uu1.normalTitle" = "ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ?";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "vID-r5-18D"; */
+"vID-r5-18D.normalTitle" = "ਸਾਈਨ-ਇਨ";
+
+/* Class = "UIButton"; normalTitle = "Reset Password"; ObjectID = "zok-dh-Scr"; */
+"zok-dh-Scr.normalTitle" = "ਪਾਸਵਰਡ ਰੀਸੈਟ ਕਰੋ";

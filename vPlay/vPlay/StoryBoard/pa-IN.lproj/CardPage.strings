@@ -1,0 +1,66 @@
+
+/* Class = "UIButton"; normalTitle = "Save Card"; ObjectID = "06F-CX-mqP"; */
+"06F-CX-mqP.normalTitle" = "ਕਾਰਡ ਸੇਵ ਕਰੋ";
+
+/* Class = "UILabel"; text = "CARD NUMBER"; ObjectID = "6wH-fl-GbE"; */
+"6wH-fl-GbE.text" = "ਕਾਰਡ ਨੰਬਰ";
+
+/* Class = "UILabel"; text = "Please add to view card's"; ObjectID = "BiG-jA-e58"; */
+"BiG-jA-e58.text" = "ਕਿਰਪਾ ਕਰਕੇ ਕਾਰਡ ਵੇਖਣ ਲਈ ਸ਼ਾਮਲ ਕਰੋ";
+
+/* Class = "UILabel"; text = "2671 xxxx xxxx xxxx"; ObjectID = "OQc-dx-izb"; */
+"OQc-dx-izb.text" = "2671 xxxx xxxx xxxx";
+
+/* Class = "UITextField"; placeholder = "MM"; ObjectID = "PlA-ZG-b2w"; */
+"PlA-ZG-b2w.placeholder" = "MM";
+
+/* Class = "UILabel"; text = "ENTER CVV"; ObjectID = "X2l-YI-VW3"; */
+"X2l-YI-VW3.text" = "ਸੀਵੀਵੀ ਦਰਜ ਕਰੋ";
+
+/* Class = "UILabel"; text = "Vince Carter"; ObjectID = "Xcv-tA-w25"; */
+"Xcv-tA-w25.text" = "ਵਿਨਸ ਕਾਰਟਰ";
+
+/* Class = "UILabel"; text = "03/22"; ObjectID = "YmB-V9-Rqr"; */
+"YmB-V9-Rqr.text" = "03/22";
+
+/* Class = "UIButton"; normalTitle = "Add New Card"; ObjectID = "ZbE-aE-LWF"; */
+"ZbE-aE-LWF.normalTitle" = "ਨਵਾਂ ਕਾਰਡ ਸ਼ਾਮਲ ਕਰੋ";
+
+/* Class = "UITextField"; placeholder = "YY"; ObjectID = "a27-mf-La4"; */
+"a27-mf-La4.placeholder" = "YY";
+
+/* Class = "UILabel"; text = "(Kindly provide us the Dummy Card details only.)"; ObjectID = "cMx-og-tnT"; */
+"cMx-og-tnT.text" = "(ਕਿਰਪਾ ਕਰਕੇ ਸਾਨੂੰ ਸਿਰਫ ਡਮੀ ਕਾਰਡ ਦੇ ਵੇਰਵੇ ਪ੍ਰਦਾਨ ਕਰੋ)";
+
+/* Class = "UILabel"; text = "Enter card holder name"; ObjectID = "cPy-xp-qZH"; */
+"cPy-xp-qZH.text" = "ਕਾਰਡ ਧਾਰਕ ਦਾ ਨਾਮ ਦਰਜ ਕਰੋ";
+
+/* Class = "UIButton"; normalTitle = "Add New Card"; ObjectID = "cdp-aS-y2q"; */
+"cdp-aS-y2q.normalTitle" = "ਨਵਾਂ ਕਾਰਡ ਸ਼ਾਮਲ ਕਰੋ";
+
+/* Class = "UILabel"; text = "EXPIRY DATE"; ObjectID = "giX-1v-R8P"; */
+"giX-1v-R8P.text" = "ਅੰਤ ਦੀ ਤਾਰੀਖ";
+
+/* Class = "UILabel"; text = "CVV"; ObjectID = "q2l-Wu-Zgp"; */
+"q2l-Wu-Zgp.text" = "CVV";
+
+/* Class = "UILabel"; text = "Enter card number"; ObjectID = "qcG-kM-Mbc"; */
+"qcG-kM-Mbc.text" = "ਕਾਰਡ ਨੰਬਰ ਦਾਖਲ ਕਰੋ";
+
+/* Class = "UILabel"; text = "(Kindly provide us the Dummy Card details only.)"; ObjectID = "sXf-u1-oNj"; */
+"sXf-u1-oNj.text" = "(ਕਿਰਪਾ ਕਰਕੇ ਸਾਨੂੰ ਸਿਰਫ ਡਮੀ ਕਾਰਡ ਦੇ ਵੇਰਵੇ ਪ੍ਰਦਾਨ ਕਰੋ)";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "vai-mg-k7K"; */
+"vai-mg-k7K.text" = "ਜਾਂ";
+
+/* Class = "UILabel"; text = "CARD HOLDER NAME"; ObjectID = "vjN-K2-8Du"; */
+"vjN-K2-8Du.text" = "ਕਾਰਡ ਧਾਰਕ ਦਾ ਨਾਮ";
+
+/* Class = "UILabel"; text = "/"; ObjectID = "y6e-um-Uwd"; */
+"y6e-um-Uwd.text" = "/";
+
+/* Class = "UITextField"; placeholder = "Cvv / Cvc"; ObjectID = "zKr-Zn-TgW"; */
+"zKr-Zn-TgW.placeholder" = "Cvv / Cvc";
+
+/* Class = "UILabel"; text = "Expiry date"; ObjectID = "znI-Nf-EcU"; */
+"znI-Nf-EcU.text" = "ਅੰਤ ਦੀ ਤਾਰੀਖ";

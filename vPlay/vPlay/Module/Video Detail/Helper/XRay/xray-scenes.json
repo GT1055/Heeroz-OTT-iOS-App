@@ -1,0 +1,21 @@
+{
+    "status": "success",
+    "error": "false",
+    "scenes_list": [
+        {
+            "scene_name": "Start",
+            "scene_duration": "00:01:12",
+            "scene_screenshot": "https://d2z1w4aiblvrwu.cloudfront.net/ad/wa54/skyscraper-movie-trailer-large-6.jpg"
+        },
+        {
+            "scene_name": "Middle",
+            "scene_duration": "00:02:05",
+            "scene_screenshot": "https://images.firstpost.com/wp-content/uploads/2018/06/rockrock-825.jpg"
+        },
+        {
+            "scene_name": "End",
+            "scene_duration": "00:02:33",
+            "scene_screenshot": "https://assets3.thrillist.com/v1/image/2774432/size/gn-gift_guide_variable_c.jpg"
+        }
+    ]
+}

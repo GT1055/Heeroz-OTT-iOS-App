@@ -1,0 +1,63 @@
+
+/* Class = "UINavigationItem"; title = "Cropped Image"; ObjectID = "3Dg-XD-BeW"; */
+"3Dg-XD-BeW.title" = "ਕਰੈਪਡ ਚਿੱਤਰ";
+
+/* Class = "UISearchBar"; placeholder = "search..."; ObjectID = "3Gm-Oo-YXM"; */
+"3Gm-Oo-YXM.placeholder" = "ਖੋਜ...";
+
+/* Class = "UIButton"; normalTitle = "Random"; ObjectID = "4bi-YK-Wtp"; */
+"4bi-YK-Wtp.normalTitle" = "ਬੇਤਰਤੀਬੇ";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "7hb-Aa-ocD"; */
+"7hb-Aa-ocD.text" = "ਨਾਮ";
+
+/* Class = "UINavigationItem"; title = "Crop View"; ObjectID = "8Pk-eY-BSD"; */
+"8Pk-eY-BSD.title" = "ਫਸਲ ਝਲਕ";
+
+/* Class = "UIButton"; normalTitle = "Rotate"; ObjectID = "Dzt-28-xyK"; */
+"Dzt-28-xyK.normalTitle" = "ਘੁੰਮਾਓ";
+
+/* Class = "UITextField"; placeholder = "Enter the name"; ObjectID = "EU8-il-Pdb"; */
+"EU8-il-Pdb.placeholder" = "ਨਾਮ ਦਰਜ ਕਰੋ";
+
+/* Class = "UITextField"; placeholder = "DD-MM-YYYY"; ObjectID = "I4l-ma-fXM"; */
+"I4l-ma-fXM.placeholder" = "DD-MM-YYYY";
+
+/* Class = "UIButton"; normalTitle = "Overlay"; ObjectID = "JPd-sy-wm5"; */
+"JPd-sy-wm5.normalTitle" = "ਓਵਰਲੇਅ";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Kzs-Uz-PsF"; */
+"Kzs-Uz-PsF.normalTitle" = "ਵਾਪਸ";
+
+/* Class = "UILabel"; text = "+1 091"; ObjectID = "Lq7-V2-rZP"; */
+"Lq7-V2-rZP.text" = "+1 091";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "RXk-Q6-Vo8"; */
+"RXk-Q6-Vo8.normalTitle" = "ਹੋ ਗਿਆ";
+
+/* Class = "UIButton"; normalTitle = "Crop"; ObjectID = "RzE-Bn-uGc"; */
+"RzE-Bn-uGc.normalTitle" = "ਫਸਲ";
+
+/* Class = "UITextField"; placeholder = "Enter the email id"; ObjectID = "TVr-5u-ONx"; */
+"TVr-5u-ONx.placeholder" = "ਈਮੇਲ ਆਈ ਡੀ ਦਰਜ ਕਰੋ";
+
+/* Class = "UITextField"; placeholder = "Enter mobile number"; ObjectID = "beS-AO-drz"; */
+"beS-AO-drz.placeholder" = "ਮੋਬਾਈਲ ਨੰਬਰ ਦਰਜ ਕਰੋ";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "crf-5v-5sN"; */
+"crf-5v-5sN.normalTitle" = "ਵਾਪਸ";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "eQI-7l-mtr"; */
+"eQI-7l-mtr.text" = "ਈ-ਮੇਲ";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "inW-Xa-5Gv"; */
+"inW-Xa-5Gv.normalTitle" = "ਅਪਡੇਟ";
+
+/* Class = "UILabel"; text = "DOB(DD-MM-YYYY)"; ObjectID = "lNj-zL-ClA"; */
+"lNj-zL-ClA.text" = "ਜਨਮ ਦੀ ਤਾਰੀਖ (DD-MM-YYYY)";
+
+/* Class = "UILabel"; text = "Mobile"; ObjectID = "wXB-7n-kiZ"; */
+"wXB-7n-kiZ.text" = "ਮੋਬਾਈਲ";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "xWk-y7-SN6"; */
+"xWk-y7-SN6.normalTitle" = "ਰੀਸੈੱਟ";

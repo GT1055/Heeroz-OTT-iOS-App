@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>update_Url</key>
+	<string>app_Store_Url</string>
+	<key>update_Version</key>
+	<string>remote_Update_Version</string>
+	<key>update_IsRequried</key>
+	<string>remote_Update_IsNeed</string>
+	<key>update_Title</key>
+	<string>remote_Title</string>
+	<key>update_Message</key>
+	<string>remote_Message</string>
+</dict>
+</plist>

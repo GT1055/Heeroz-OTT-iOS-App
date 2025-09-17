@@ -1,0 +1,38 @@
+
+/* Class = "UIButton"; normalTitle = "VIEW ALL"; ObjectID = "12k-pW-xI6"; */
+"12k-pW-xI6.normalTitle" = "ਸਾਰੇ ਵੇਖੋ";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Cuo-c7-OW9"; */
+"Cuo-c7-OW9.title" = "मद";
+
+/* Class = "UILabel"; text = "PREMIUM"; ObjectID = "ETu-ET-F06"; */
+"ETu-ET-F06.text" = "ਪ੍ਰੀਮੀਅਮ";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "QuV-Ot-laj"; */
+"QuV-Ot-laj.title" = "मद";
+
+/* Class = "UILabel"; text = "LIVE"; ObjectID = "TNS-QG-iYY"; */
+"TNS-QG-iYY.text" = "ਲਾਈਵ";
+
+/* Class = "UILabel"; text = "LIVE"; ObjectID = "Z1T-UW-L5o"; */
+"Z1T-UW-L5o.text" = "ਲਾਈਵ";
+
+/* Class = "UILabel"; text = "No Data"; ObjectID = "d5r-Ic-Jn3"; */
+"d5r-Ic-Jn3.text" = "ਕੋਈ ਡਾਟਾ ਨਹੀਂ";
+
+/* Class = "UILabel"; text = "No Data available"; ObjectID = "ghM-Y9-Apb"; */
+"ghM-Y9-Apb.text" = "ਕੋਈ ਡਾਟਾ ਉਪਲਬਧ ਨਹੀਂ ਹੈ";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "glI-51-eL8"; */
+"glI-51-eL8.title" = "मद";
+
+/* Class = "UILabel"; text = "PREMIUM"; ObjectID = "s6u-Dd-qo0"; */
+"s6u-Dd-qo0.text" = "ਪ੍ਰੀਮੀਅਮ";
+
+/* Class = "UILabel"; text = "Recent Videos"; ObjectID = "shG-Gm-nSw"; */
+"shG-Gm-nSw.text" = "ਤਾਜ਼ਾ ਵੀਡੀਓ";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "zmB-Yb-cVF"; */
+"zmB-Yb-cVF.title" = "मद";
+
+"Abm-Yg-d5W.title" = "ਹੁਣੇ ਮੈਂਬਰ ਬਣੋ";

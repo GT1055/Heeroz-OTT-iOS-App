@@ -1,0 +1,297 @@
+/* 
+  Localizable.strings
+  vPlay
+
+  Created by user on 21/08/18.
+  Copyright © 2018 user. All rights reserved.
+*/
+
+// ------------ Login, SignUp Forgot Password and Change Password --------------- //
+"Please enter your E-mail id" = "S'il vous plaît entrer email";
+"Please enter a vaild E-mail id" = "S'il vous plaît entrer email valide";
+"Please enter a your name" = "S'il vous plaît entrer le nom";
+"Please enter a valid name" = "Le nom doit être au moins 3 caractères";
+"Password field is required" = "Veuillez entrer le mot de passe";
+"Password must be atleast 6 Characters" = "Le mot de passe doit comporter au moins 6 caractères";
+"Mobile number must be atleast 7 Characters" =
+"Votre numéro de téléphone portable doit comporter 7 caractères.";
+"Please enter a valid moble Number" = "S'il vous plaît entrer le numéro de téléphone";
+"Your name should contain minimum of 3 characters and maximum of 30 characters" =
+"Votre nom doit contenir au minimum 3 caractères et au maximum 30 caractères";
+"Your mobile number should be maximum of 15 characters" =
+"Votre numéro de téléphone portable doit comporter 15 caractères au maximum.";
+"Your password should be maximum of 15 characters" = "Votre mot de passe peut contenir 15 caractères maximum";
+"Please select your date of Birth" = "Veuillez choisir votre date de naissance";
+"Your new password and old password are same" =
+"Votre nouveau mot de passe et votre ancien mot de passe ne doivent pas être identiques";
+"Confirm Password mismatch with password" = "Confirmer l'inadéquation du mot de passe avec le mot de passe";
+"Do you want to sign out?" = "Êtes-vous certain de vouloir vous déconnecter?";
+"Sign out successfully" = "Déconnecté avec succès";
+"Password" = "Mot de passe";
+"Your new password and confirm password are not same" =
+"Votre nouveau mot de passe et votre mot de passe ne sont pas identiques";
+"Name" = "prénom";
+"Mobile Number" = "Numéro de portable";
+
+// ----------- Subscription -----------//
+"Please contact Heeroz team" = "S'il vous plaît contacter l'équipe Heeroz";
+"No attachment found" = "Aucune pièce jointe trouvée";
+"Cancel Subscription" = "Annuler l'abonnement";
+"Are you sure you want to cancel subscription?" = "Êtes-vous sûr de vouloir annuler votre abonnement?";
+
+// ----------- LIVE ------------------//
+"Live Now" = "Vis maintenant";
+"Todays Live" = "Aujourd'hui Vivre";
+"Upcoming Live" = "Prochain à Vivre";
+"Up Next" = "Suivant";
+"Live Now" = "Vis maintenant";
+
+// ---------- Notifications --------------//
+"All Notifications" = "Tout Les notifications";
+"Replied Notifications" = "Notifications répliquées";
+"New Video Uploaded Notifications" = "Nouvelles notifications de vidéos téléchargées";
+"This video is no longer available" = "Cette vidéo n'est plus disponible";
+
+// ------------ Playlist ---------------//
+"Playlist" = "Playlist";
+"Are you sure you want to remove this Playlist from saved Playlist?" =
+"Êtes-vous sûr de vouloir supprimer cette playlist de la playlist enregistrée?";
+"Recently Update" = "Mise à jour récemment";
+"Latest Videos" = "Dernières vidéos";
+"Popular Videos" = "Vidéos populaires";
+"Delete Playlist" = "Supprimer la playlist";
+"Please give a name to your playlist" = "Merci de donner un nom à votre playlist";
+"Please select a playlist" = "Veuillez sélectionner une playlist";
+"Current playlist name is not change" = "Le nom de la playlist actuelle n'est pas changé";
+"Remove from playlist" = "Supprimer de la playlist";
+"Edit Title" = "Editer le titre de la playlist";
+"Add to favourite" = "Ajouter aux favoris";
+"Remove from favourite" = "Supprimer du favori";
+
+// ------------ Edit Profile ------------//
+"What Would you like to do" = "Qu'est-ce que tu aimerais faire";
+"Choose from Gallery" = "Choisir parmi la galerie";
+"TakePhoto" = "Prendre une photo";
+"Please enter a valid dail code" = "S'il vous plaît entrer un code de courrier valide";
+
+// ----------- Search ----------------//
+"No data found with related to that text" = "Aucune donnée trouvée avec lié à ce texte";
+"Please enter a text and click search" = "S'il vous plaît entrer un texte et cliquez sur Rechercher";
+"Please enter a text to search" = "S'il vous plaît entrer un texte à rechercher";
+
+// ---------- Slide Menu ------------//
+"Pricing" = "Passer en Premium";
+"My Favourites" = "Mes préférés";
+"My Playlist" = "Ma liste de lecture";
+"Watch History" = "Regarder l'histoire";
+"Settings" = "Réglages";
+"Contact Us" = "Contactez nous";
+"Sign out" = "Déconnexion";
+"FAQ" = "FAQ";
+"Checkout" = "Check-out";
+"Saved Cards" = "Cartes sauvegardées";
+"Add New Card" = "Ajouter une nouvelle carte";
+"My Transactions" = "Mes transactions";
+"Welcome To Heeroz" = "Bienvenue sur Heeroz";
+"Notifications" = "Les notifications";
+"Remove Notification" = "Supprimer la notification";
+"Rate us on the App Store" = "Évaluez-nous sur l'App Store";
+"Starring" = "En vedette";
+"Related Videos" = "Vidéos connexes";
+"My Profile" = "Mon profil";
+"Offline Videos" = "Vidéos hors ligne";
+"Downloading" = "Téléchargement";
+
+//------------ Banking ------------//
+"HDFC Bank" = "Banque HDFC";
+"Axis Bank" = "La Banque Axis";
+"HSBC Bank" = "Banque HSBC";
+"SBI" = "SBI";
+"ICICI Bank" = "ICICI Bank";
+
+//---------- Payment option---------//
+"Credit or Debit Card" = "Carte de crédit ou de débit";
+"Net Banking" = "Net Banking";
+
+// ----------- Video Detail ---------//
+"Post Your First Comment" = "Postez votre premier commentaire";
+"Read Less" = "Lire moins";
+"Read More" = "Lire la suite";
+"Please enter a text to post" = "S'il vous plaît écrivez un commentaire à poster";
+"Please write a reply to post" = "S'il vous plaît écrivez une réponse à poster";
+
+// ----------- " Button Title" ---------//
+"VIEW ALL" = "VOIR TOUT";
+
+// ------------ Common --------------//
+"Ok" = "D'accord";
+"Cancel" = "Annuler";
+"Done" = "Terminé";
+"Welcome to Catrack..." = "Bienvenue sur Catrack ...";
+
+// --------- CARD -----------//
+"Add Credit / Debit Card" = "Ajouter une carte de crédit / débit";
+"Please enter a card number" = "S'il vous plaît entrer un numéro de carte";
+"Please enter a card exprie month" = "S'il vous plaît entrer une carte d'expiration mois";
+"Please enter a card exprie year" = "S'il vous plaît entrer une carte l'année d'expiration";
+"Please enter a card cvv number" = "S'il vous plaît entrer un numéro de carte CVV";
+"Are you sure you want to proceed payment with this card?" =
+"Êtes-vous sûr de vouloir procéder au paiement avec cette carte?";
+"Payment" = "Paiement";
+"You have subscribed this plan already" = "Vous avez déjà souscrit ce plan";
+"You have already been subscribed" = "Vous êtes déjà abonné";
+"No video found under this categgory" = "Aucune vidéo trouvée dans cette catégorie";
+"Are you sure want to delete this card?" = "Êtes-vous sûr de vouloir supprimer cette carte?";
+"Delete Card" = "Suppression de carte";
+"Starring" = "En vedette";
+"Please selected card to make payment" = "Veuillez sélectionner une carte pour effectuer le paiement";
+//------ Offline -------//
+"You have already download this file. You can view it in Offline mode" =
+"Vous avez déjà téléchargé ce fichier. Vous pouvez le voir en mode hors ligne";
+
+// ------- Transcation --------//
+"Success" = "Succès";
+"Failed" = "Échoué";
+"Transaction ID"  = "identifiant de transaction ";
+"paid" = "payé";
+"Paid" = "Payé";
+"₹ " = "₹ ";
+"Next" = "Suivant";
+"Sign Up" = "S'inscrire";
+
+// ------ Drop Down ---------//
+"Share" = "Share";
+"Add to playlist" = "Ajouter à la playlist";
+"Update a email id" = "Mettre à jour un identifiant de messagerie";
+"Back to online" = "Retour en ligne";
+"Unfavourite" = "Défavorable";
+
+//----- "Countries" ----//
+"Select a country" = "Choisissez un pays";
+"Back to Sign in" = "Retour à la connexion";
+
+//---- "Download" ----//
+"Download Option" = "Option de téléchargement";
+"Are you sure you want to remove this download?" = "Êtes-vous sûr de vouloir supprimer ce téléchargement?";
+"Yes" = "Oui";
+"No" = "Non";
+"You have already download this file. You can view it in Offline mode" =
+"Vous avez déjà téléchargé ce fichier. Vous pouvez le voir en mode hors ligne";
+"Download Completed" = "Téléchargement terminé";
+"Pause" = "Pause";
+"Resume" = "CV";
+"Offline" = "Hors ligne";
+
+// Transcation Type
+"Plan type:" = "Type de plan:";
+
+// ----- Comment And Reply Comment ---- //
+"Heeroz" = "Heeroz";
+"admin" = "admin";
+"Heeroz User" = "Utilisateur Heeroz";
+
+// ----- "Subscription" ---//
+"Subscription for" = "Abonnement pour";
+"Subscribe" = "Souscrire";
+"Subscribe Now" = "Abonnez-vous maintenant";
+"SUBSCRIBE NOW" = "ABONNEZ-VOUS MAINTENANT";
+"Stream on your favourite devices" = "Diffusez sur vos appareils préférés";
+"No new Movie(s) Found" = "Aucun nouveau film trouvé";
+
+// ---- Play list --- //
+"The selected playlist doesn't contain any video's" = "La playlist sélectionnée ne contient aucune vidéo";
+
+// ---- Camera ---- //
+"Camera Permission" = "Permission de caméra";
+"Camera access required for capturing photos!" = "Accès à la caméra requis pour capturer des photos!";
+"Allow Camera" = "Autoriser la caméra";
+
+// ---- Camera ---- //
+"Gallery Permission" = "Permission de galerie";
+"Gallery access required for selecting photos!" = "Accès à la galerie requis pour la sélection de photos!";
+"Allow Gallery" = "Autoriser la galerie";
+"Update" = "Mettre à jour";
+"Do you want to save changes?" = "Voulez-vous enregistrer les modifications?";
+"Sign In" = "Se connecter";
+
+/// Date Langauge
+"Current Langauge" = "Langue courante";
+"English" = "English";
+"Hindi" = "हिंदी";
+"French" = "français";
+"Punjabi" = "ਪੰਜਾਬੀ";
+
+// --- Tab Bar --- //
+"Home" = "Accueil";
+"Categories" = "Les catégories";
+"Live" = "Vivre";
+"Menu" = "Menu";
+
+// ---- Search ----//
+"Please enter a keyword to search" = "S'il vous plaît entrer un mot clé pour rechercher";
+
+"New Videos" = "Nouvelles vidéos";
+"Reply Comments" = "Répondre aux commentaires";
+"Get notified when new videos added" = "Recevoir une notification lorsque de nouvelles vidéos sont ajoutées";
+"Get notified when someone replied to your comment" =
+"Être averti quand quelqu'un a répondu à votre commentaire";
+
+"Dark Theme" = "Thème sombre";
+"Autoplay Videos" = "Vidéos en lecture automatique";
+"All Notification" = "Toutes les notifications";
+"Change Password" = "Changer le mot de passe";
+"Subscription" = "Abonnement";
+"Language" = "La langue";
+
+"On/Off videos playing automatically" = "La lecture automatique des vidéos";
+"Enable dark theme throughout the app" = "Activer le thème sombre dans l'application";
+"On/Off message notification" = "Notification de message activé / désactivé";
+"Chosse your account password" = "Choisissez le mot de passe de votre compte";
+"You can cancel your subscription" = "Vous pouvez annuler votre abonnement";
+"Select a language you prefer" = "Sélectionnez une langue que vous préférez";
+"Don't have an account? Please " = "Vous n'avez pas de compte? S'il vous plaît ";
+"Current Password" = "Mot de passe actuel";
+"New Password" = "Nouveau mot de passe";
+"Confirm New Password" = "Confirmer le nouveau mot de passe";
+"Enter Your Current Password" = "Entrer votre mot de passe actuel";
+"Enter New Password" = "Entrez un nouveau mot de passe";
+"Enter Confirm New Password" = "Entrer confirmation du nouveau mot de passe";
+"Update Button" = "Mettre à jour";
+"Unlimited films and TV programmes" = "Films et programmes télévisés illimités";
+"View " = "Vue ";
+" Replies" = " réponses";
+" Reply" = " Répondre";
+"Saved" = "Enregistré";
+"Error in downloading file" = "Erreur lors du téléchargement du fichier";
+"Auto" = "Auto";
+"Quality" = "Qualité";
+"Normal" = "Ordinaire";
+"Speed" = "La vitesse";
+"Subtitles" = "Les sous-titres";
+"Off" = "De";
+"Save" = "sauvegarder";
+"Unfortunately Download Error" =
+"Malheureusement, cette vidéo n'a pas pu être téléchargée sur cet appareil.";
+"Download Error" = "Erreur de téléchargement";
+"Video Downloaded" = "Téléchargé";
+"Video Download" = "Télécharger";
+"Please update an email in your facebook account" = "Veuillez mettre à jour un email dans votre compte facebook";
+// CameraUI.strings
+"PHOTO" = "PHOTO";
+"AEAF_LOCK_TEXT" = "AE/AF LOCK";
+"API_CANCEL_TITLE" = "Annuler";
+"HDR_AUTO" = "Auto";
+"HDR_ON" = "Activé";
+"HDR_OFF" = "Non";
+"TIMER_OFF_TEXT" = "Non";
+"USE_PHOTO" = "Utiliser la photo";
+"No Internet Connection Found. Please connect to internet" = "No Internet Connection Found. Please connect to internet";
+// ---- ChromeCasting ----//
+"Video Casting is Connected"     = "Le casting vidéo est connecté";
+"The Casting session has ended." = "La session de casting est terminée.";
+"This video is already in queue" = "Cette vidéo est déjà en file d'attente";
+"Video is added to queue"        = "La vidéo est ajoutée à la file d'attente";
+"No videos in queue"             = "Aucune vidéo en file d'attente";
+// ---- Plan -----//
+"Plan - " = "Plan -";
+"Go Premium" = "Passer en Premium";

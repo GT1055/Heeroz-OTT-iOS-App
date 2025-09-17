@@ -1,0 +1,15 @@
+
+/* Class = "UITabBarItem"; title = "Live"; ObjectID = "6aE-po-1nj"; */
+"6aE-po-1nj.title" = "Live";
+
+/* Class = "UITabBarItem"; title = "Categories"; ObjectID = "Rye-dZ-dai"; */
+"Rye-dZ-dai.title" = "Categories";
+
+/* Class = "UITabBarItem"; title = "Menu"; ObjectID = "bSs-Ce-ZdF"; */
+"bSs-Ce-ZdF.title" = "Menu";
+
+/* Class = "UITabBarItem"; title = "Playlist"; ObjectID = "fO3-FX-xRC"; */
+"fO3-FX-xRC.title" = "Playlist";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "okS-qU-jUe"; */
+"okS-qU-jUe.title" = "Home";

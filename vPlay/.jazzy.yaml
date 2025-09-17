@@ -1,0 +1,5 @@
+author: Contus
+output: docs
+clean: true
+theme: jony
+exclude: vPlay/ThirdParties

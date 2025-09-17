@@ -1,0 +1,293 @@
+/* 
+  Localizable.strings
+  vPlay
+
+  Created by user on 21/08/18.
+  Copyright © 2018 user. All rights reserved.
+*/
+
+// ------------ Login, SignUp Forgot Password and Change Password --------------- //
+"Please enter your E-mail id" = "कृपया अपना ईमेल आईडी दर्ज करें";
+"Please enter a vaild E-mail id" = "कृपया अपना ईमेल आईडी दर्ज करें";
+"Please enter a your name" = "कृपया नाम दर्ज करें";
+"Please enter a valid name" = "नाम कम से कम 3 अक्षर होना चाहिए";
+"Password field is required" = "कृप्या पास्वर्ड भरो";
+"Password must be atleast 6 Characters" = "पासवर्ड कम से कम 6 अक्षर होना चाहिए";
+"Mobile number must be atleast 7 Characters" = "आपका मोबाइल नंबर 7 अक्षर होना चाहिए";
+"Please enter a valid moble Number" = "कृपया मोबाइल नंबर दर्ज करें";
+"Your name should contain minimum of 3 characters and maximum of 30 characters" =
+"आपके नाम में कम से कम 3 वर्ण और अधिकतम 30 वर्ण होने चाहिए";
+"Your mobile number should be maximum of 15 characters" =
+"आपका मोबाइल नंबर अधिकतम 15 वर्ण होना चाहिए";
+"Your password should be maximum of 15 characters" = "आपका पासवर्ड अधिकतम 15 वर्ण हो सकता है";
+"Please select your date of Birth" = "कृपया अपनी जन्मतिथि चुनें";
+"Your new password and old password are same" = "आपका नया पासवर्ड और पुराना पासवर्ड समान नहीं होना चाहिए";
+"Confirm Password mismatch with password" = "पासवर्ड के साथ पासवर्ड विसंगति की पुष्टि करें";
+"Do you want to sign out?" = "क्या आप द्वारा साइन आउट किया जाना सुनिश्चित है?";
+"Sign out successfully" = "सफलतापूर्वक साइन आउट किया गया";
+"Password" = "पारण शब्द";
+"Your new password and confirm password are not same" =
+"आपका नया पासवर्ड और पासवर्ड की पुष्टि समान नहीं है";
+"Name" = "नाम";
+"Mobile Number" = "मोबाइल नंबर";
+
+// ----------- Subscription -----------//
+"Please contact Heeroz team" = "कृपया Heeroz टीम से संपर्क करें";
+"No attachment found" = "कोई अनुलग्नक नहीं मिला";
+"Cancel Subscription" = "सदस्यता रद्द";
+"Are you sure you want to cancel subscription?" = "क्या आप वाकई सदस्यता रद्द करना चाहते हैं?";
+
+// ----------- LIVE ------------------//
+"Live Now" = "अब लाईव";
+"Todays Live" = "लाईव आज";
+"Upcoming Live" = "आने वाले लाइव";
+"Up Next" = "अगला";
+"Live Now" = "लाईव अब";
+
+// ---------- Notifications --------------//
+"All Notifications" = "सभी अधिसूचनाएं";
+"Replied Notifications" = "अधिसूचनाओं का जवाब दिया";
+"New Video Uploaded Notifications" = "नई वीडियो अपलोड अधिसूचनाएं";
+"This video is no longer available" = "यह वीडियो अब उपलब्ध नहीं है";
+
+// ------------ Playlist ---------------//
+"Playlist" = "प्लेलिस्ट";
+"Are you sure you want to remove this Playlist from saved Playlist?" =
+"क्या आप वाकई सहेजी गई प्लेलिस्ट से इस प्लेलिस्ट को हटाना चाहते हैं?";
+"Recently Update" = "हाल ही में अद्यतन करें";
+"Latest Videos" = "नवीनतम वीडियो";
+"Popular Videos" = "लोकप्रिय वीडियो";
+"Delete Playlist" = "प्लेलिस्ट हटाएं";
+"Please give a name to your playlist" = "कृपया अपनी प्लेलिस्ट में एक नाम दें";
+"Please select a playlist" = "कृपया एक प्लेलिस्ट का चयन करें";
+"Current playlist name is not change" = "वर्तमान प्लेलिस्ट नाम बदल नहीं है";
+"Remove from playlist" = "प्लेलिस्ट से निकालें";
+"Edit Title" = "प्लेलिस्ट शीर्षक संपादित करें";
+"Add to favourite" = "पसंदीदा में जोड़ें";
+"Remove from favourite" = "पसंदीदा से निकालें";
+
+// ------------ Edit Profile ------------//
+"What Would you like to do" = "आप क्या करना पसंद करेंगे?";
+"Choose from Gallery" = "गैलरी से चयन करो";
+"TakePhoto" = "एक तस्वीर लें";
+"Please enter a valid dail code" = "कृपया वैध डेल कोड दर्ज करें";
+
+// ----------- Search ----------------//
+"No data found with related to that text" = "उस पाठ से संबंधित कोई डेटा नहीं मिला";
+"Please enter a text and click search" = "कृपया एक टेक्स्ट दर्ज करें और खोज पर क्लिक करें";
+"Please enter a text to search" = "खोजने के लिए कृपया एक पाठ दर्ज करें";
+
+// ---------- Slide Menu ------------//
+"Pricing" = "प्रीमियम के लिए जाएँ";
+"My Favourites" = "मेरे पसंदीदा";
+"My Playlist" = "मेरी संगीतसूची";
+"Watch History" = "इतिहास देखें";
+"Settings" = "सेटिंग्स";
+"Contact Us" = "हमसे संपर्क करें";
+"Sign out" = "साइन आउट";
+"FAQ" = "FAQ";
+"Checkout" = "चेक आउट";
+"Saved Cards" = "सहेजे गए कार्ड";
+"Add New Card" = "नया कार्ड जोड़ें";
+"My Transactions" = "मेरे लेनदेन";
+"Welcome To Heeroz" = "Heeroz में आपका स्वागत है";
+"Notifications" = "सूचनाएं";
+"Remove Notification" = "अधिसूचना हटाएं";
+"Rate us on the App Store" = "ऐप स्टोर पर हमें रेट करें";
+"Starring" = "अभिनीत";
+"Related Videos" = "संबंधित वीडियो";
+"My Profile" = "मेरी प्रोफाइल";
+"Offline Videos" = "ऑफ़लाइन वीडियो";
+"Downloading" = "डाउनलोड कर रहा है";
+"Error in downloading file" = "फाइल डाउनलोड करने में त्रुटि";
+//------------ Banking ------------//
+"HDFC Bank" = "एचडीएफसी बैंक";
+"Axis Bank" = "ऐक्सिस बैंक";
+"HSBC Bank" = "एचएसबीसी बैंक";
+"SBI" = "स्टेट बैंक ऑफ इंडिया";
+"ICICI Bank" = "आईसीआईसीआई बैंक";
+
+//---------- Payment option---------//
+"Credit or Debit Card" = "क्रेडिट या डेबिट कार्ड";
+"Net Banking" = "नेट बैंकिंग";
+
+// ----------- Video Detail ---------//
+"Post Your First Comment" = "अपनी पहली टिप्पणी पोस्ट करें";
+"Read Less" = "कम पढ़ें";
+"Read More" = "और पढो";
+"Please enter a text to post" = "कृपया पोस्ट करने के लिए एक टिप्पणी लिखें";
+"Please write a reply to post" = "कृपया पोस्ट करने के लिए उत्तर लिखें";
+// ----------- " Button Title" ---------//
+"VIEW ALL" = "सभी को देखें";
+
+// ------------ Common --------------//
+"Ok" = "ठीक";
+"Cancel" = "रद्द करना";
+"Done" = "किया हुआ";
+"Welcome to Catrack..." = "Catrack में आपका स्वागत है ...";
+
+// --------- CARD -----------//
+"Add Credit / Debit Card" = "क्रेडिट / डेबिट कार्ड जोड़ें";
+"Please enter a card number" = "कृपया एक कार्ड नंबर दर्ज करें";
+"Please enter a card exprie month" = "कृपया एक कार्ड एक्सप्री महीने दर्ज करें";
+"Please enter a card exprie year" = "कृपया एक कार्ड एक्सप्री वर्ष दर्ज करें";
+"Please enter a card cvv number" = "कृपया एक कार्ड सीवीवी नंबर दर्ज करें";
+"Are you sure you want to proceed payment with this card?" =
+"क्या आप वाकई इस कार्ड के साथ भुगतान करना चाहते हैं?";
+"Payment" = "भुगतान";
+"You have subscribed this plan already" = "आपने पहले से ही इस योजना की सदस्यता ली है";
+"You have already been subscribed" = "आप पहले ही सदस्यता ले चुके हैं";
+"No video found under this categgory" = "इस श्रेणी के तहत कोई वीडियो नहीं मिला";
+"Are you sure want to delete this card?" = "क्या आप वाकई इस कार्ड को हटाना चाहते हैं?";
+"Delete Card" = "कार्ड हटाएं";
+"Please selected card to make payment" = "भुगतान करने के लिए कृपया एक कार्ड का चयन करें";
+//------ Offline -------//
+"You have already download this file. You can view it in Offline mode" =
+"आप पहले ही इस फाइल को डाउनलोड कर चुके हैं। आप इसे ऑफ़लाइन मोड में देख सकते हैं";
+
+// ------- Transcation --------//
+"Success" = "सफलता";
+"Failed" = "अनुत्तीर्ण होना";
+"Transaction ID"  = "लेनदेन आईडी";
+"paid" = "भुगतान किया है";
+"Paid" = "भुगतान किया है";
+"₹ " = "₹ ";
+"Next" = "आगामी";
+"Sign Up" = "साइन अप करें";
+
+// ------ Drop Down ---------//
+"Share" = "शेयर";
+"Add to playlist" = "प्लेलिस्ट में जोड़ें";
+"Update a email id" = "एक ईमेल आईडी अद्यतन करें";
+"Back to online" = "ऑनलाइन पर वापस";
+"Unfavourite" = "एकपसंदीदा";
+
+//----- "Countries" ----//
+"Select a country" = "एक देश चुनें";
+"Back to Sign in" = "साइन इन करने के लिए वापस";
+
+//---- "Download" ----//
+"Download Option" = "विकल्प डाउनलोड करें";
+"Are you sure you want to remove this download?" = "क्या आप वाकई इस डाउनलोड को हटाना चाहते हैं?";
+"Yes" = "हाँ";
+"No" = "नहीं";
+"You have already download this file. You can view it in Offline mode" =
+"आप पहले ही इस फाइल को डाउनलोड कर चुके हैं। आप इसे ऑफ़लाइन मोड में देख सकते हैं!";
+"Download Completed" = "डाउनलोड सम्पन्न हुआ";
+"Pause" = "ठहराव";
+"Resume" = "बायोडाटा";
+"Offline" = "ऑफलाइन";
+
+// Transcation Type
+"Plan type:" = "योजना का प्रकार:";
+
+// ----- Comment And Reply Comment ---- //
+"Heeroz" = "Heeroz";
+"admin" = "व्यवस्थापक";
+"Heeroz User" = "Heeroz उपयोगकर्ता";
+
+// ----- "Subscription" ---//
+"Subscription for" = "के लिए सदस्यता";
+"Subscribe" = "सदस्यता लें";
+"Subscribed" = "सदस्यता लिया";
+"Subscribe Now" = "अभी ग्राहक बनें";
+"SUBSCRIBE NOW" = "अभी ग्राहक बनें";
+"Stream on your favourite devices" = "अपने पसंदीदा उपकरणों पर स्ट्रीम करें";
+"No new Movie(s) Found" = "कोई नई मूवी नहीं मिली";
+
+// ---- Play list --- //
+"The selected playlist doesn't contain any video's" = "चयनित प्लेलिस्ट में कोई वीडियो नहीं है";
+
+// ---- Camera ---- //
+"Camera Permission" = "कैमरा अनुमति";
+"Camera access required for capturing photos!" = "फोटो कैप्चर करने के लिए कैमरा एक्सेस की आवश्यकता है!";
+"Allow Camera" = "कैमरा की अनुमति दें";
+
+// ---- Camera ---- //
+"Gallery Permission" = "गैलरी अनुमति";
+"Gallery access required for selecting photos!" = "फोटो चुनने के लिए गैलरी एक्सेस की आवश्यकता है!";
+"Allow Gallery" = "गैलरी की अनुमति दें";
+"Update" = "अद्यतन करें";
+"Do you want to save changes?" = "क्या आप परिवर्तनों को सेव करना चाहते हैं?";
+"Sign In" = "दाखिल करना";
+
+/// Date Langauge
+"Current Langauge" = "वर्तमान लैंगेज";
+"English" = "English";
+"Hindi" = "हिंदी";
+"French" = "français";
+"Punjabi" = "ਪੰਜਾਬੀ";
+
+// --- Tab Bar --- //
+"Home" = "होम";
+"Categories" = "श्रेणियाँ";
+"Live" = "जीना";
+"Menu" = "मेन्यू";
+
+// ---- Search ----//
+"Please enter a keyword to search" = "खोज करने के लिए कृपया एक कीवर्ड दर्ज करें";
+
+"New Videos" = "नए वीडियो";
+"Reply Comments" = "जवाब टिप्पणियां";
+"Get notified when new videos added" = "नए वीडियो जोड़े जाने पर अधिसूचित हो जाएं";
+"Get notified when someone replied to your comment" =
+"जब किसी ने आपकी टिप्पणी का जवाब दिया तो सूचित हो जाएं";
+
+"Dark Theme" = "डार्क थीम";
+"Autoplay Videos" = "ऑटोप्ले वीडियो";
+"All Notification" = "सभी अधिसूचना";
+"Change Password" = "पासवर्ड बदलें";
+"Subscription" = "अंशदान";
+"Language" = "भाषा";
+
+"On/Off videos playing automatically" = "स्वचालित रूप से चल रहे वीडियो चालू / बंद करें";
+"Enable dark theme throughout the app" = "पूरे ऐप में अंधेरे थीम को सक्षम करें";
+"On/Off message notification" = "ऑन / ऑफ संदेश अधिसूचना";
+"Chosse your account password" = "अपने खाते का पासवर्ड चुनो";
+"You can cancel your subscription" = "आप अपनी सदस्यता रद्द कर सकते हैं";
+"Select a language you prefer" = "अपनी पसंद की भाषा चुनें";
+"Don't have an account? Please " = "खाता नहीं है? कृप्या ";
+"Current Password" = "वर्तमान पासवर्ड";
+"New Password" = "नया पासवर्ड";
+"Confirm New Password" = "नए पासवर्ड की पुष्टि करें";
+"Enter Confirm New Password" = "नया पासवर्ड पुष्टि करें";
+"Enter New Password" = "नया पासवर्ड दर्ज करें";
+"Enter Your Current Password" = "अपना वर्तमान पासवर्ड दर्ज करें";
+"Update Button" = "अद्यतन करें";
+"Unlimited films and TV programmes" = "असीमित फिल्में और टीवी कार्यक्रम";
+"View " = "राय ";
+" Replies" = " जवाब";
+" Reply" = " जवाब दे दो";
+"Saved" = "बचाया";
+"Save" = "बचाना";
+"Auto" = "ऑटो";
+"Quality" = "गुणवत्ता";
+"Normal" = "सामान्य";
+"Speed" = "गति";
+"Subtitles" = "उपशीर्षक";
+"Off" = "बंद";
+"Unfortunately Download Error" =
+"दुर्भाग्य से यह वीडियो इस उपकरण पर डाउनलोड नहीं हो सका";
+"Download Error" = "त्रुटि डाउनलोड करें";
+"Video Downloaded" = "डाउनलोड किया गया";
+"Video Download" = "डाउनलोड";
+"Please update an email in your facebook account" = "कृपया अपने फेसबुक अकाउंट में एक ईमेल अपडेट करें";
+// CameraUI.strings
+"PHOTO" = "फोटो";
+"AEAF_LOCK_TEXT" = "AE / AF LOCK";
+"API_CANCEL_TITLE" = "रद्द करना";
+"HDR_AUTO" = "ऑटो";
+"HDR_ON" = "ऑन";
+"HDR_OFF" = "ऑफ";
+"TIMER_OFF_TEXT" = "ऑफ";
+"USE_PHOTO" = "फ़ोटो का उपयोग करें";
+"No Internet Connection Found. Please connect to internet" = "कोई इंटरनेट कनेक्शन नहीं मिला। कृपया इंटरनेट से कनेक्ट करें";
+// ---- ChromeCasting ----//
+"Video Casting is Connected"     = "वीडियो कास्टिंग कनेक्टेड है";
+"The Casting session has ended." = "कास्टिंग सत्र समाप्त हो गया है।";
+"This video is already in queue" = "यह वीडियो पहले से कतार में है";
+"Video is added to queue"        = "वीडियो कतार में जोड़ा जाता है";
+"No videos in queue"             = "कतार में कोई वीडियो नहीं";
+// ---- Plan -----//
+"Plan - " = "योजना -";
+"Go Premium" = "प्रीमियम के लिए जाएँ";

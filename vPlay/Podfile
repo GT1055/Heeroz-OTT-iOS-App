@@ -1,0 +1,61 @@
+platform :ios, '10.0'
+inhibit_all_warnings!
+use_frameworks!
+
+target 'vPlay' do
+  
+    pod 'Alamofire'
+    pod 'AlamofireImage'
+    pod 'CryptoSwift'
+    pod 'DropDown'
+    pod 'Fabric'
+    pod 'FaveButton'
+    pod 'FBSDKCoreKit'
+    pod 'FBSDKLoginKit'
+    pod 'Firebase/Analytics'
+    pod 'Firebase/Auth'
+    pod 'Firebase/Core'
+    pod 'Firebase/Crashlytics'
+    pod 'Firebase/Database'
+    pod 'Firebase/DynamicLinks'
+    pod 'Firebase/Performance'
+    pod 'Firebase/RemoteConfig'
+    pod 'Firebase/Storage'
+    pod 'Firebase/Messaging'
+    pod 'FSPagerView'
+    pod 'google-cast-sdk'
+    pod 'Google-Mobile-Ads-SDK'
+    pod 'GoogleSignIn', '~> 5.0'
+    pod 'ImageSlideshow/Alamofire', '1.6.1'
+    pod 'IQKeyboardManagerSwift'
+    pod 'ObjectMapper'
+    pod 'ReachabilitySwift', '4.2.0'
+    pod 'SkeletonView', '1.8.7'
+    pod 'SnapKit', '~> 4.0.0'
+    pod 'MDNotificationView'
+    pod 'NVActivityIndicatorView'
+    pod 'UICircularProgressRing'
+    
+end
+
+post_install do |installer|
+  installer.pods_project.targets.each do |target|
+    if ['FaveButton'].include? target.name
+      target.build_configurations.each do |config|
+        config.build_settings['SWIFT_VERSION'] = '4.0'
+      end
+    end
+  end
+end
+
+#post_install do |installer|
+#    # Your list of targets here. this use the pod file of 4.2
+#    myTargets2 = ['CryptoSwift', 'ReachabilitySwift']
+#    installer.pods_project.targets.each do |target|
+#        if myTargets2.include? target.name
+#            target.build_configurations.each do |config|
+#                config.build_settings['SWIFT_VERSION'] = '4.2'
+#            end
+#        end
+#    end
+#end

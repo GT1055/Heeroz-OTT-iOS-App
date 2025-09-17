@@ -1,0 +1,1 @@
+Features to be tested.1. Thumbnail view of the video in the slider#BUILD_NO##BUILD_DATE#

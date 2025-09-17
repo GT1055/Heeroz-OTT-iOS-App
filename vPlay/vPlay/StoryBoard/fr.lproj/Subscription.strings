@@ -1,0 +1,150 @@
+
+/* Class = "UILabel"; text = "SILVER"; ObjectID = "33L-q7-evg"; */
+"33L-q7-evg.text" = "ARGENT";
+
+/* Class = "UILabel"; text = "Saved card securely for faster transcation (100% secure)"; ObjectID = "7dN-bx-Fgj"; */
+"7dN-bx-Fgj.text" = "Carte enregistrée en toute sécurité pour une transaction plus rapide (100% sécurisé)";
+
+/* Class = "UILabel"; text = "I agree to the Terms & Condition and Privacy Policy"; ObjectID = "8Lh-6N-OBQ"; */
+"8Lh-6N-OBQ.text" = "J'accepte les conditions d'utilisation et la politique de confidentialité";
+
+/* Class = "UILabel"; text = "Expiry Date"; ObjectID = "8fq-Q8-4Yg"; */
+"8fq-Q8-4Yg.text" = "Date d'expiration";
+
+/* Class = "UILabel"; text = "2671 xxxx xxxx xxxx"; ObjectID = "9HX-04-4vW"; */
+"9HX-04-4vW.text" = "2671 xxxx xxxx xxxx";
+
+/* Class = "UILabel"; text = "Select the bank"; ObjectID = "9kY-aE-jO8"; */
+"9kY-aE-jO8.text" = "Sélectionnez la banque";
+
+/* Class = "UILabel"; text = "Frequently Asked Questions"; ObjectID = "BlK-JA-Qnh"; */
+"BlK-JA-Qnh.text" = "Questions fréquemment posées";
+
+/* Class = "UILabel"; text = "PAYMENT SUCCESSFUL"; ObjectID = "DcG-hL-ROM"; */
+"DcG-hL-ROM.text" = "PAIEMENT RÉUSSI";
+
+/* Class = "UILabel"; text = "Subscription Type"; ObjectID = "Ddl-ge-tQh"; */
+"Ddl-ge-tQh.text" = "Type d'abonnement";
+
+/* Class = "UILabel"; text = "Payment will be charged to iTunes account on purchase confirmation."; ObjectID = "Drb-S2-zfY"; */
+"Drb-S2-zfY.text" = "Le paiement sera débité du compte iTunes lors de la confirmation de l'achat.";
+
+/* Class = "UILabel"; text = "EXPIRY DATE"; ObjectID = "ILq-OU-hlD"; */
+"ILq-OU-hlD.text" = "DATE D'EXPIRATION";
+
+/* Class = "UILabel"; text = "Live Streaming"; ObjectID = "IVK-2U-DOk"; */
+"IVK-2U-DOk.text" = "Live Streaming";
+
+/* Class = "UILabel"; text = "Payment Type"; ObjectID = "IzE-6n-j4z"; */
+"IzE-6n-j4z.text" = "Type de paiement";
+
+/* Class = "UILabel"; text = "Select"; ObjectID = "LEU-gk-CI8"; */
+"LEU-gk-CI8.text" = "Sélectionner";
+
+/* Class = "UILabel"; text = "CARD NUMBER"; ObjectID = "MZp-SO-WEB"; */
+"MZp-SO-WEB.text" = "NUMÉRO DE CARTE";
+
+/* Class = "UILabel"; text = "(Kindly provide us the Dummy Bank/Card details. No Live Transaction will be taken place.)"; ObjectID = "Nlq-Nl-nRX"; */
+"Nlq-Nl-nRX.text" = "(Veuillez nous fournir les détails de la carte factice. Aucune transaction en direct n'aura lieu.)";
+
+/* Class = "UILabel"; text = "Net Banking"; ObjectID = "NpK-Zf-v5G"; */
+"NpK-Zf-v5G.text" = "Net Banking";
+
+/* Class = "UILabel"; text = "CARD HOLDER NAME"; ObjectID = "OEo-g8-Yre"; */
+"OEo-g8-Yre.text" = "NOM DU TITULAIRE DE LA CARTE";
+
+/* Class = "UILabel"; text = "Vince Carter"; ObjectID = "PbG-yf-UrY"; */
+"PbG-yf-UrY.text" = "Vince Carter";
+
+/* Class = "UILabel"; text = "03/22"; ObjectID = "SQT-Bd-fuG"; */
+"SQT-Bd-fuG.text" = "03/22";
+
+/* Class = "UILabel"; text = "Get a Full-Fledged Video Experience"; ObjectID = "T9u-YV-sx7"; */
+"T9u-YV-sx7.text" = "Obtenez une expérience vidéo à part entière";
+
+/* Class = "UIButton"; normalTitle = "Pay Securely"; ObjectID = "Tp8-Y1-ggc"; */
+"Tp8-Y1-ggc.normalTitle" = "Payez en toute sécurité";
+
+/* Class = "UIButton"; normalTitle = "Pay Securely"; ObjectID = "W2U-kh-kiS"; */
+"W2U-kh-kiS.normalTitle" = "Payez en toute sécurité";
+
+/* Class = "UILabel"; text = "Your payment has been processed! details of transcation is shown below."; ObjectID = "XF0-7E-UTk"; */
+"XF0-7E-UTk.text" = "Votre paiement a été traité! les détails de la transaction sont indiqués ci-dessous.";
+
+/* Class = "UIButton"; normalTitle = "Pay Securely"; ObjectID = "aeM-yV-LcY"; */
+"aeM-yV-LcY.normalTitle" = "Payez en toute sécurité";
+
+/* Class = "UILabel"; text = "Select your payment method"; ObjectID = "c91-4o-lCu"; */
+"c91-4o-lCu.text" = "Sélectionnez votre méthode de paiement";
+
+/* Class = "UILabel"; text = "Net Banking"; ObjectID = "cCO-Dy-zi9"; */
+"cCO-Dy-zi9.text" = "Net Banking";
+
+/* Class = "UILabel"; text = "Credit / Debit Card"; ObjectID = "dVS-FR-hCl"; */
+"dVS-FR-hCl.text" = "Carte de crédit / débit";
+
+/* Class = "UILabel"; text = "Enter Card Holder Name"; ObjectID = "eJ2-6D-7dP"; */
+"eJ2-6D-7dP.text" = "Entrez le nom du titulaire";
+
+/* Class = "UILabel"; text = "Enter Card Number"; ObjectID = "eKw-Fv-55f"; */
+"eKw-Fv-55f.text" = "Entrer le numéro de carte";
+
+/* Class = "UILabel"; text = "Subscription will be charged based on the plan you have selected"; ObjectID = "fwa-AX-QAw"; */
+"fwa-AX-QAw.text" = "L'abonnement sera facturé en fonction du forfait que vous avez sélectionné";
+
+/* Class = "UILabel"; text = "/"; ObjectID = "hgj-MZ-C8q"; */
+"hgj-MZ-C8q.text" = "/";
+
+/* Class = "UILabel"; text = "Saved Card"; ObjectID = "iUc-01-XZw"; */
+"iUc-01-XZw.text" = "Carte sauvegardée";
+
+/* Class = "UITextField"; placeholder = "YY"; ObjectID = "l77-3I-4GS"; */
+"l77-3I-4GS.placeholder" = "YY";
+
+/* Class = "UITextField"; placeholder = "CVV / CVC"; ObjectID = "mEk-yR-Yg9"; */
+"mEk-yR-Yg9.placeholder" = "CVV / CVC";
+
+/* Class = "UITextField"; placeholder = "MM"; ObjectID = "mzg-a2-GZ6"; */
+"mzg-a2-GZ6.placeholder" = "MM";
+
+/* Class = "UIButton"; normalTitle = "Subscribe Now"; ObjectID = "pEx-EY-1ic"; */
+"pEx-EY-1ic.normalTitle" = "Abonnez-vous maintenant";
+
+/* Class = "UILabel"; text = "Transaction ID"; ObjectID = "pdr-98-6OH"; */
+"pdr-98-6OH.text" = "identifiant de transaction";
+
+/* Class = "UILabel"; text = "Watch Online Video"; ObjectID = "q6d-MA-HEK"; */
+"q6d-MA-HEK.text" = "Regarder la vidéo en ligne";
+
+/* Class = "UILabel"; text = "Transcation Time"; ObjectID = "sk0-1g-Vsq"; */
+"sk0-1g-Vsq.text" = "Temps de transaction";
+
+/* Class = "UILabel"; text = "(Kindly provide us the Dummy Bank/Card details. No Live Transaction will be taken place.)"; ObjectID = "t5q-rE-Heq"; */
+"t5q-rE-Heq.text" = "(Veuillez nous fournir les détails de la carte factice. Aucune transaction en direct n'aura lieu.)";
+
+/* Class = "UILabel"; text = "(Kindly provide us the Dummy Bank/Card details. No Live Transaction will be taken place.)"; ObjectID = "vX4-PW-UaL"; */
+"vX4-PW-UaL.text" = "(Veuillez nous fournir les détails de la carte factice. Aucune transaction en direct n'aura lieu.)";
+
+/* Class = "UILabel"; text = "CVV"; ObjectID = "wd4-Yq-iJ2"; */
+"wd4-Yq-iJ2.text" = "CVV";
+
+/* Class = "UILabel"; text = "ENTER CVV"; ObjectID = "zWN-mf-Oxc"; */
+"zWN-mf-Oxc.text" = "ENTRER CVV";
+
+/* Class = "UILabel"; text = "WATCH ORIGINAL SHOWS"; ObjectID = "wQ8-KB-IAV"; */
+"wQ8-KB-IAV.text" = "REGARDER DES SPECTACLES ORIGINAUX";
+
+/* Class = "UILabel"; text = "LATEST CATALOGUE OF PUNJABI ENTERTAINMENT"; ObjectID = "AsZ-eg-1cx"; */
+"AsZ-eg-1cx.text" = "DERNIER CATALOGUE DE PUNJABI ENTERTAINMENT";
+
+/* Class = "UILabel"; text = "DOWNLOAD OFFLINE AND WATCH ANYTIME, ANYWHERE"; ObjectID = "Ttw-bI-eLw"; */
+"Ttw-bI-eLw.text" = "TÉLÉCHARGEZ HORS LIGNE ET REGARDEZ À TOUT MOMENT, PARTOUT";
+
+/* Class = "UILabel"; text = "AD-FREE CONTENT"; ObjectID = "NQa-dI-9lf"; */
+"NQa-dI-9lf.text" = "CONTENU SANS PUBLICITÉ";
+
+/* Class = "UILabel"; text = "MULTIPLE DEVICES WATCH ON A DEVICE OF YOUR CHOICE"; ObjectID = "Exl-pK-2uB"; */
+"Exl-pK-2uB.text" = "PLUSIEURS APPAREILS REGARDER SUR UN APPAREIL DE VOTRE CHOIX";
+
+/* Class = "UILabel"; text = "WATCH WITH SUBTITLES"; ObjectID = "0n2-3Q-72k"; */
+"0n2-3Q-72k.text" = "MONTRE AVEC DES SOUS-TITRES";

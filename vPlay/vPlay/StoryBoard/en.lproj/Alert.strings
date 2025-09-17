@@ -1,0 +1,138 @@
+
+/* Class = "UIViewController"; title = "No Category Found"; ObjectID = "1DB-v5-jbQ"; */
+"1DB-v5-jbQ.title" = "No Category Found";
+
+/* Class = "UILabel"; text = "Oops, No Video(s) Found"; ObjectID = "2iP-yH-Moq"; */
+"2iP-yH-Moq.text" = "Oops, No Video(s) Found";
+
+/* Class = "UILabel"; text = "No videos found related to this keyword"; ObjectID = "3o9-cq-gSs"; */
+"3o9-cq-gSs.text" = "No videos found related to this keyword";
+
+/* Class = "UIViewController"; title = "No Records Found"; ObjectID = "Aws-DZ-pEi"; */
+"Aws-DZ-pEi.title" = "No Records Found";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "BnL-CJ-3LD"; */
+"BnL-CJ-3LD.normalTitle" = "Retry";
+
+/* Class = "UILabel"; text = "Oops, No Live Video(s) Available!"; ObjectID = "DzB-hv-86Q"; */
+"DzB-hv-86Q.text" = "Oops, No Live Video(s) Available!";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "Eve-0g-cpj"; */
+"Eve-0g-cpj.normalTitle" = "Retry";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "G6c-yg-5OW"; */
+"G6c-yg-5OW.normalTitle" = "Retry";
+
+/* Class = "UIViewController"; title = "No Search Result"; ObjectID = "G9T-zx-50b"; */
+"G9T-zx-50b.title" = "No Search Result";
+
+/* Class = "UIViewController"; title = "No Internet"; ObjectID = "Hiz-AD-IPD"; */
+"Hiz-AD-IPD.title" = "No Internet";
+
+/* Class = "UILabel"; text = "No transcation(s) history"; ObjectID = "IJi-0H-1gM"; */
+"IJi-0H-1gM.text" = "No transcation(s) history";
+
+/* Class = "UILabel"; text = "You don't have any notifications right now"; ObjectID = "Jyo-Nq-mIs"; */
+"Jyo-Nq-mIs.text" = "You don't have any notifications right now";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "K5C-1t-pRF"; */
+"K5C-1t-pRF.normalTitle" = "Retry";
+
+/* Class = "UIViewController"; title = "No History Recived"; ObjectID = "LmP-nO-0Aj"; */
+"LmP-nO-0Aj.title" = "No History Recived";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "Lws-lX-68l"; */
+"Lws-lX-68l.normalTitle" = "Retry";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "Ngp-Nr-kG4"; */
+"Ngp-Nr-kG4.normalTitle" = "Retry";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "Nhr-yM-kDH"; */
+"Nhr-yM-kDH.normalTitle" = "Retry";
+
+/* Class = "UIViewController"; title = "CSNoFavourite"; ObjectID = "Ont-LF-Lke"; */
+"Ont-LF-Lke.title" = "CSNoFavourite";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "Q4B-E3-m6T"; */
+"Q4B-E3-m6T.normalTitle" = "Retry";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "Q9e-Up-ah8"; */
+"Q9e-Up-ah8.normalTitle" = "Retry";
+
+/* Class = "UIViewController"; title = "Video Not Available"; ObjectID = "QFq-u8-JeC"; */
+"QFq-u8-JeC.title" = "Video Not Available";
+
+/* Class = "UILabel"; text = "You have not created any playlists yet!"; ObjectID = "QkN-be-cip"; */
+"QkN-be-cip.text" = "You have not created any playlists yet!";
+
+/* Class = "UILabel"; text = "Unfortunately this content is no longer available"; ObjectID = "R7r-6R-2hL"; */
+"R7r-6R-2hL.text" = "Unfortunately this content is no longer available";
+
+/* Class = "UIViewController"; title = "Something Went Worng"; ObjectID = "RRJ-oU-bHn"; */
+"RRJ-oU-bHn.title" = "Something Went Worng";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "SCF-As-vFV"; */
+"SCF-As-vFV.normalTitle" = "Retry";
+
+/* Class = "UILabel"; text = "You have not yet download any offline videos"; ObjectID = "SeQ-uX-mFf"; */
+"SeQ-uX-mFf.text" = "You have not yet added any download(s)";
+
+/* Class = "UIViewController"; title = "No Playlist"; ObjectID = "Syr-0h-b9d"; */
+"Syr-0h-b9d.title" = "No Playlist";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "Thm-sz-Rbt"; */
+"Thm-sz-Rbt.normalTitle" = "Retry";
+
+/* Class = "UIViewController"; title = "CSLiveRecord"; ObjectID = "V8i-gI-q6D"; */
+"V8i-gI-q6D.title" = "CSLiveRecord";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "WEw-3A-sZd"; */
+"WEw-3A-sZd.normalTitle" = "Retry";
+
+/* Class = "UIViewController"; title = "CSNotificationRecived"; ObjectID = "ZiR-Kg-6QD"; */
+"ZiR-Kg-6QD.title" = "CSNotificationRecived";
+
+/* Class = "UILabel"; text = "Whoops !"; ObjectID = "bE2-74-rrK"; */
+"bE2-74-rrK.text" = "Whoops !";
+
+/* Class = "UIViewController"; title = "No Offline Record"; ObjectID = "bED-kO-Xrf"; */
+"bED-kO-Xrf.title" = "No Offline Record";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "cdX-iJ-3fs"; */
+"cdX-iJ-3fs.normalTitle" = "Retry";
+
+/* Class = "UILabel"; text = "No Records Found"; ObjectID = "eor-iM-bB3"; */
+"eor-iM-bB3.text" = "No Records Found";
+
+/* Class = "UILabel"; text = "You have not yet added any download"; ObjectID = "g3F-Pe-zKW"; */
+"g3F-Pe-zKW.text" = "You have not yet added any download(s)";
+
+/* Class = "UILabel"; text = "Please check your internet connection."; ObjectID = "i7F-Nd-Cgf"; */
+"i7F-Nd-Cgf.text" = "Please check your internet connection.";
+
+/* Class = "UILabel"; text = "You have not added any video to favourite yet!"; ObjectID = "j3D-cl-Hs6"; */
+"j3D-cl-Hs6.text" = "You have not added any video to favourite yet!";
+
+/* Class = "UIViewController"; title = "No Transcation"; ObjectID = "lGs-g8-IMV"; */
+"lGs-g8-IMV.title" = "No Transcation";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "lsd-Mb-Fwp"; */
+"lsd-Mb-Fwp.normalTitle" = "Retry";
+
+/* Class = "UILabel"; text = "No videos found in these Category Or Genre"; ObjectID = "m2k-S1-i4g"; */
+"m2k-S1-i4g.text" = "No videos found in these Category Or Genre";
+
+/* Class = "UILabel"; text = "Something Went Wrong"; ObjectID = "o16-hq-qbE"; */
+"o16-hq-qbE.text" = "Something Went Wrong";
+
+/* Class = "UIViewController"; title = "No Download Found"; ObjectID = "sSH-af-IoW"; */
+"sSH-af-IoW.title" = "No Download Found";
+
+/* Class = "UIViewController"; title = "No Records Found"; ObjectID = "skz-kG-ODf"; */
+"skz-kG-ODf.title" = "No Records Found";
+
+/* Class = "UILabel"; text = "You have not viewed any video(s) recently"; ObjectID = "yTE-pW-A7i"; */
+"yTE-pW-A7i.text" = "You have not viewed any video(s) recently";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "zhv-By-AfA"; */
+"zhv-By-AfA.normalTitle" = "Retry";

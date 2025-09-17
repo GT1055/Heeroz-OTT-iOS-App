@@ -1,0 +1,51 @@
+
+/* Class = "UISearchBar"; placeholder = "Titles, Categories, Genre, People"; ObjectID = "1Vr-d3-GRn"; */
+"1Vr-d3-GRn.placeholder" = "Titles, Categories, Genre, People";
+
+/* Class = "UILabel"; text = "Plan type: Bronze"; ObjectID = "71f-R5-ibm"; */
+"71f-R5-ibm.text" = "Plan type: Bronze";
+
+/* Class = "UILabel"; text = "Monthly"; ObjectID = "B4b-eo-CMm"; */
+"B4b-eo-CMm.text" = "Monthly";
+
+/* Class = "UILabel"; text = "Details"; ObjectID = "Ca1-hQ-9MR"; */
+"Ca1-hQ-9MR.text" = "Details";
+
+/* Class = "UILabel"; text = "Payment Type"; ObjectID = "DVi-QD-VRB"; */
+"DVi-QD-VRB.text" = "Payment Type";
+
+/* Class = "UILabel"; text = "FREE"; ObjectID = "EVa-fV-MJp"; */
+"EVa-fV-MJp.text" = "FREE";
+
+/* Class = "UILabel"; text = "₹ 900"; ObjectID = "LeT-qz-EuP"; */
+"LeT-qz-EuP.text" = "₹ 900";
+
+/* Class = "UILabel"; text = "Transaction ID"; ObjectID = "S7p-iq-1Y1"; */
+"S7p-iq-1Y1.text" = "Transaction ID";
+
+/* Class = "UIButton"; normalTitle = "DOWNLOAD"; ObjectID = "XZu-67-deS"; */
+"XZu-67-deS.normalTitle" = "DOWNLOAD";
+
+/* Class = "UILabel"; text = "Net Banking"; ObjectID = "XjP-Af-df7"; */
+"XjP-Af-df7.text" = "Net Banking";
+
+/* Class = "UILabel"; text = "M"; ObjectID = "Z14-aq-Oop"; */
+"Z14-aq-Oop.text" = "M";
+
+/* Class = "UILabel"; text = "Transaction Time"; ObjectID = "g07-5q-Rdz"; */
+"g07-5q-Rdz.text" = "Transaction Time";
+
+/* Class = "UILabel"; text = "Success"; ObjectID = "huW-jD-sMn"; */
+"huW-jD-sMn.text" = "Success";
+
+/* Class = "UILabel"; text = "Monthly"; ObjectID = "kqv-CS-MT5"; */
+"kqv-CS-MT5.text" = "Monthly";
+
+/* Class = "UILabel"; text = "FREE"; ObjectID = "r5Q-oX-TDs"; */
+"r5Q-oX-TDs.text" = "FREE";
+
+/* Class = "UILabel"; text = "Success"; ObjectID = "wKF-YF-1pt"; */
+"wKF-YF-1pt.text" = "Success";
+
+/* Class = "UILabel"; text = "June 2 2018 09:44pm"; ObjectID = "wSB-H8-JHa"; */
+"wSB-H8-JHa.text" = "June 2 2018 09:44pm";

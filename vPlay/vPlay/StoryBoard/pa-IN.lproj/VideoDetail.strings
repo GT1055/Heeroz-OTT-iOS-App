@@ -1,0 +1,126 @@
+
+/* Class = "UIButton"; normalTitle = "Reply"; ObjectID = "29I-3V-QBf"; */
+"29I-3V-QBf.normalTitle" = "ਜਵਾਬ";
+
+/* Class = "UILabel"; text = "Save"; ObjectID = "2MS-UA-nQn"; */
+"2MS-UA-nQn.text" = "ਸੇਵ";
+
+/* Class = "UILabel"; text = "Please Subscribe to Continue Watching"; ObjectID = "4Tx-eA-1l5"; */
+"4Tx-eA-1l5.text" = "ਦੇਖਣਾ ਜਾਰੀ ਰੱਖੋ ਜੀ";
+
+/* Class = "UILabel"; text = "Share"; ObjectID = "5Cn-H4-PPh"; */
+"5Cn-H4-PPh.text" = "ਸਾਂਝਾ ਕਰੋ";
+
+/* Class = "UILabel"; text = "Hours"; ObjectID = "64N-Iy-UWF"; */
+"64N-Iy-UWF.text" = "ਘੰਟੇ";
+
+/* Class = "UILabel"; text = "Seconds"; ObjectID = "6v6-9W-CaZ"; */
+"6v6-9W-CaZ.text" = "ਸਕਿੰਟ";
+
+/* Class = "UILabel"; text = "PREMIUM"; ObjectID = "75F-LI-lVK"; */
+"75F-LI-lVK.text" = "ਪ੍ਰੀਮੀਅਮ";
+
+/* Class = "UIButton"; normalTitle = "Subscribe Now"; ObjectID = "9HK-VT-0e3"; */
+"9HK-VT-0e3.normalTitle" = "ਹੁਣੇ ਮੈਂਬਰ ਬਣੋ";
+
+/* Class = "UILabel"; text = "Jessie"; ObjectID = "ANB-UR-wLV"; */
+"ANB-UR-wLV.text" = "ਜੈਸੀ";
+
+/* Class = "UILabel"; text = "History"; ObjectID = "Agt-FX-Im2"; */
+"Agt-FX-Im2.text" = "ਇਤਿਹਾਸ";
+
+/* Class = "UILabel"; text = "10 minutes ago"; ObjectID = "Am0-PO-pNW"; */
+"Am0-PO-pNW.text" = "10 ਮਿੰਟ ਪਹਿਲਾਂ";
+
+/* Class = "UIButton"; normalTitle = "VIEW ALL"; ObjectID = "CNg-zP-1t3"; */
+"CNg-zP-1t3.normalTitle" = "ਸਾਰੇ ਵੇਖੋ";
+
+/* Class = "UILabel"; text = "50"; ObjectID = "IYI-4E-qd2"; */
+"IYI-4E-qd2.text" = "50";
+
+/* Class = "UIButton"; normalTitle = "  Clear All  "; ObjectID = "OGb-tk-Rky"; */
+"OGb-tk-Rky.normalTitle" = "  ਸਾਰਾ ਸਾਫ ਕਰੋ  ";
+
+/* Class = "UILabel"; text = "Playlist"; ObjectID = "OXf-ju-3tk"; */
+"OXf-ju-3tk.text" = "ਪਲੇਲਿਸਟ";
+
+/* Class = "UILabel"; text = "Replies"; ObjectID = "P50-0L-ktl"; */
+"P50-0L-ktl.text" = "ਜਵਾਬ";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "SAd-cn-lzF"; */
+"SAd-cn-lzF.text" = "ਸ਼੍ਰੇਣੀ";
+
+/* Class = "UILabel"; text = "Age Classification"; ObjectID = "zgf-Yt-BPN"; */
+"zgf-Yt-BPN.text" = "ਉਮਰ ਵਰਗੀਕਰਣ";
+
+/* Class = "UILabel"; text = "."; ObjectID = "TCs-v1-d2U"; */
+"TCs-v1-d2U.text" = ".";
+
+/* Class = "UILabel"; text = "50"; ObjectID = "TMa-fk-Kpc"; */
+"TMa-fk-Kpc.text" = "50";
+
+/* Class = "UILabel"; text = "Season(s)"; ObjectID = "TP8-d8-FBw"; */
+"TP8-d8-FBw.text" = "ਮੌਸਮ";
+
+/* Class = "UILabel"; text = "LIVE"; ObjectID = "UAI-sw-d2p"; */
+"UAI-sw-d2p.text" = "ਲਾਈਵ";
+
+/* Class = "UILabel"; text = "PREMIUM"; ObjectID = "Ua1-3A-pvh"; */
+"Ua1-3A-pvh.text" = "ਪ੍ਰੀਮੀਅਮ";
+
+/* Class = "UILabel"; text = "."; ObjectID = "Ux0-1k-uCR"; */
+"Ux0-1k-uCR.text" = ".";
+
+/* Class = "UILabel"; text = "Josuahy"; ObjectID = "V65-P0-uG8"; */
+"V65-P0-uG8.text" = "Josuahy";
+
+/* Class = "UILabel"; text = "Write a comment"; ObjectID = "Z0P-NF-qc5"; */
+"Z0P-NF-qc5.text" = "ਇੱਕ ਟਿੱਪਣੀ ਲਿਖੋ";
+
+/* Class = "UILabel"; text = "This demo is very interesting.Hello Please manipulate the image of some one standing in front of beautiful Island landscape like Waterfall"; ObjectID = "ZJZ-Vy-l34"; */
+"ZJZ-Vy-l34.text" = "Cette démonstration est très intéressante. Bonjour Manipulez l'image de quelqu'un qui se tient devant un magnifique paysage insulaire comme une cascade.";
+
+/* Class = "UILabel"; text = "Days"; ObjectID = "c0L-sq-nGE"; */
+"c0L-sq-nGE.text" = "ਦਿਨ";
+
+/* Class = "UILabel"; text = "Views"; ObjectID = "cQk-D4-Vth"; */
+"cQk-D4-Vth.text" = "ਵਿਚਾਰ";
+
+/* Class = "UILabel"; text = "."; ObjectID = "e7j-hC-XI2"; */
+"e7j-hC-XI2.text" = ".";
+
+/* Class = "UILabel"; text = "..................."; ObjectID = "ehf-X1-rgQ"; */
+"ehf-X1-rgQ.text" = "...................";
+
+/* Class = "UILabel"; text = "Minutes"; ObjectID = "f7J-QF-bJb"; */
+"f7J-QF-bJb.text" = "ਮਿੰਟ";
+
+/* Class = "UILabel"; text = "60 minuties Ago"; ObjectID = "fEp-yj-EYe"; */
+"fEp-yj-EYe.text" = "60 ਮਿੰਟ ਪਹਿਲਾਂ";
+
+/* Class = "UILabel"; text = "COMMENT(S)"; ObjectID = "hdA-wD-hbV"; */
+"hdA-wD-hbV.text" = "ਕਮੈਂਟ";
+
+/* Class = "UILabel"; text = "This demo is very interesting.Hello Please manipulate the image of some one standing in front of beautiful Island landscape like Waterfall.This demo is very interesting.Hello Please manipulate the image of some one standing in front of beautiful Island landscape like Waterfall"; ObjectID = "iB9-MH-Prc"; */
+"iB9-MH-Prc.text" = "ਇਹ ਡੈਮੋ ਬਹੁਤ ਦਿਲਚਸਪ ਹੈ. ਹੇਲੋ ਕ੍ਰਿਪਾ ਕਰਕੇ ਵਾਟਰਫਾਲ ਵਰਗੇ ਸੁੰਦਰ ਟਾਪੂ ਲੈਂਡਸਕੇਪ ਦੇ ਸਾਮ੍ਹਣੇ ਖੜੇ ਕਿਸੇ ਦੇ ਚਿੱਤਰ ਨੂੰ ਸੋਧੋ. ਇਹ ਡੈਮੋ ਬਹੁਤ ਹੀ ਦਿਲਚਸਪ ਹੈ. ਹੇਲੋ ਕਿਰਪਾ ਕਰਕੇ ਵਾਟਰਫਾਲ ਵਰਗੇ ਸੁੰਦਰ ਆਈਲੈਂਡ ਲੈਂਡਸਕੇਪ ਦੇ ਸਾਮ੍ਹਣੇ ਖੜੇ ਕੁਝ ਦੇ ਚਿੱਤਰ ਨੂੰ ਸੋਧੋ.";
+
+/* Class = "UILabel"; text = "."; ObjectID = "kte-B9-5PH"; */
+"kte-B9-5PH.text" = ".";
+
+/* Class = "UILabel"; text = "PREMIUM"; ObjectID = "nbR-Hr-Q0y"; */
+"nbR-Hr-Q0y.text" = "ਪ੍ਰੀਮੀਅਮ";
+
+/* Class = "UILabel"; text = "Favourite"; ObjectID = "qtx-xk-qk1"; */
+"qtx-xk-qk1.text" = "ਮਨਪਸੰਦ";
+
+/* Class = "UILabel"; text = "60 minuties Ago"; ObjectID = "rV3-uL-Nu7"; */
+"rV3-uL-Nu7.text" = "60 ਮਿੰਟ ਪਹਿਲਾਂ";
+
+/* Class = "UILabel"; text = "50"; ObjectID = "sAd-9F-MlZ"; */
+"sAd-9F-MlZ.text" = "50";
+
+/* Class = "UILabel"; text = "50"; ObjectID = "vkF-QX-Kt3"; */
+"vkF-QX-Kt3.text" = "50";
+
+/* Class = "UILabel"; text = "Write a reply comment"; ObjectID = "z7C-6S-gci"; */
+"z7C-6S-gci.text" = "ਇੱਕ ਜਵਾਬ ਲਿਖੋ";

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Heeroz</string>
+	<key>CFBundleExecutable</key>
+	<string>Heeroz</string>
+	<key>CFBundleIcons</key>
+	<dict/>
+	<key>CFBundleIcons~ipad</key>
+	<dict/>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Heeroz</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb418293639062071</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.357575316641-mor6thd7df6llcc3edk6n62u9qs0rjjh</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>Bundle ID </string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.contus.vplayed</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>Fabric</key>
+	<dict>
+		<key>APIKey</key>
+		<string>1c2e022524d692fd03f11ebd172c3f6f8d2b37bb</string>
+		<key>Kits</key>
+		<array>
+			<dict>
+				<key>KitInfo</key>
+				<dict/>
+				<key>KitName</key>
+				<string>Crashlytics</string>
+			</dict>
+		</array>
+	</dict>
+	<key>FacebookAppID</key>
+	<string>418293639062071</string>
+	<key>FacebookDisplayName</key>
+	<string>Heeroz</string>
+	<key>GADApplicationIdentifier</key>
+	<string>ca-app-pub-3940256099942544~1458002511</string>
+	<key>GoogleClientId</key>
+	<string>357575316641-mor6thd7df6llcc3edk6n62u9qs0rjjh.apps.googleusercontent.com</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>fbapi</string>
+		<string>fb-messenger-api</string>
+		<string>fbauth2</string>
+		<string>fbshareextension</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>App requires Bluetooth for External Playback using Chromecast Devices</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>App requires Bluetooth for External Playback using Chromecast Devices</string>
+	<key>NSCameraUsageDescription</key>
+	<string>App requires Camera access to Capture Photos for Profile Picture</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>App requires Microphone for WebRTC Live Streaminf</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>App requires Library access to set Profile Picture</string>
+	<key>SKAdNetworkItems</key>
+	<array>
+		<dict>
+			<key>SKAdNetworkIdentifier</key>
+			<string>cstr6suwn9.skadnetwork</string>
+		</dict>
+	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>SF UI Display Light</string>
+		<string>FuturaPTExtraBold.otf</string>
+		<string>FuturaPTDemi.otf</string>
+		<string>FuturaPTLight.otf</string>
+		<string>FuturaPTBold.otf</string>
+		<string>FuturaPTBook.otf</string>
+		<string>FuturaPTHeavy.otf</string>
+		<string>FuturaPTMedium.otf</string>
+		<string>SF UI Display Medium</string>
+		<string>SF UI Display Regular</string>
+	</array>
+	<key>UIApplicationShortcutItems </key>
+	<array>
+		<dict>
+			<key>UIApplicationShortcutItemIconFile</key>
+			<string>Live</string>
+			<key>UIApplicationShortcutItemIconType</key>
+			<string>$(PRODUCT_BUNDLE_IDENTIFIER).OpenVplay</string>
+			<key>UIApplicationShortcutItemSubtitle</key>
+			<string>Open New Videos</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string> Open Vplay</string>
+		</dict>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<true/>
+</dict>
+</plist>

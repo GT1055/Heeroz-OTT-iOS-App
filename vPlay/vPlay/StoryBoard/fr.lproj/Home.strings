@@ -1,0 +1,38 @@
+
+/* Class = "UIButton"; normalTitle = "VIEW ALL"; ObjectID = "12k-pW-xI6"; */
+"12k-pW-xI6.normalTitle" = "VOIR TOUT";
+
+/* Class = "UILabel"; text = "FREE"; ObjectID = "BhX-mC-T74"; */
+"BhX-mC-T74.text" = "PRIME";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Cuo-c7-OW9"; */
+"Cuo-c7-OW9.title" = "Item";
+
+/* Class = "UILabel"; text = "."; ObjectID = "Goy-Cf-fge"; */
+"Goy-Cf-fge.text" = ".";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "QuV-Ot-laj"; */
+"QuV-Ot-laj.title" = "Item";
+
+/* Class = "UILabel"; text = "LIVE"; ObjectID = "Z1T-UW-L5o"; */
+"Z1T-UW-L5o.text" = "VIVRE";
+
+/* Class = "UILabel"; text = "No Data"; ObjectID = "d5r-Ic-Jn3"; */
+"d5r-Ic-Jn3.text" = "Pas de données";
+
+/* Class = "UILabel"; text = "No Data available"; ObjectID = "ghM-Y9-Apb"; */
+"ghM-Y9-Apb.text" = "Pas de données disponibles";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "glI-51-eL8"; */
+"glI-51-eL8.title" = "Item";
+
+/* Class = "UILabel"; text = "FREE"; ObjectID = "s6u-Dd-qo0"; */
+"s6u-Dd-qo0.text" = "PRIME";
+
+/* Class = "UILabel"; text = "Recent Videos"; ObjectID = "shG-Gm-nSw"; */
+"shG-Gm-nSw.text" = "Vidéos récentes";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "zmB-Yb-cVF"; */
+"zmB-Yb-cVF.title" = "Item";
+
+"Abm-Yg-d5W.title" = "ABONNEZ-VOUS MAINTENANT";

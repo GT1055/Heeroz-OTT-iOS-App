@@ -1,0 +1,63 @@
+
+/* Class = "UIButton"; normalTitle = "Save Card"; ObjectID = "06F-CX-mqP"; */
+"06F-CX-mqP.normalTitle" = "कार्ड बचाओ";
+
+/* Class = "UILabel"; text = "CARD NUMBER"; ObjectID = "6wH-fl-GbE"; */
+"6wH-fl-GbE.text" = "कार्ड नंबर";
+
+/* Class = "UILabel"; text = "Please add to view card's"; ObjectID = "BiG-jA-e58"; */
+"BiG-jA-e58.text" = "कार्ड देखने के लिए कृपया जोड़ें";
+
+/* Class = "UILabel"; text = "2671 xxxx xxxx xxxx"; ObjectID = "OQc-dx-izb"; */
+"OQc-dx-izb.text" = "2671 xxxx xxxx xxxx";
+
+/* Class = "UITextField"; placeholder = "MM"; ObjectID = "PlA-ZG-b2w"; */
+"PlA-ZG-b2w.placeholder" = "MM";
+
+/* Class = "UILabel"; text = "ENTER CVV"; ObjectID = "X2l-YI-VW3"; */
+"X2l-YI-VW3.text" = "सीवीवी दर्ज करें";
+
+/* Class = "UILabel"; text = "Vince Carter"; ObjectID = "Xcv-tA-w25"; */
+"Xcv-tA-w25.text" = "विन्स कार्टर";
+
+/* Class = "UILabel"; text = "03/22"; ObjectID = "YmB-V9-Rqr"; */
+"YmB-V9-Rqr.text" = "03/22";
+
+/* Class = "UIButton"; normalTitle = "Add New Card"; ObjectID = "ZbE-aE-LWF"; */
+"ZbE-aE-LWF.normalTitle" = "नया कार्ड जोड़ें";
+
+/* Class = "UITextField"; placeholder = "YY"; ObjectID = "a27-mf-La4"; */
+"a27-mf-La4.placeholder" = "YY";
+
+/* Class = "UILabel"; text = "(Kindly provide us the Dummy Card details only.)"; ObjectID = "cMx-og-tnT"; */
+"cMx-og-tnT.text" = "(कृपया हमें केवल डमी कार्ड विवरण प्रदान करें.)";
+
+/* Class = "UILabel"; text = "Enter card holder name"; ObjectID = "cPy-xp-qZH"; */
+"cPy-xp-qZH.text" = "कार्ड धारक का नाम दर्ज करें";
+
+/* Class = "UIButton"; normalTitle = "Add New Card"; ObjectID = "cdp-aS-y2q"; */
+"cdp-aS-y2q.normalTitle" = "नया कार्ड जोड़ें";
+
+/* Class = "UILabel"; text = "EXPIRY DATE"; ObjectID = "giX-1v-R8P"; */
+"giX-1v-R8P.text" = "समाप्ति तिथि";
+
+/* Class = "UILabel"; text = "CVV"; ObjectID = "q2l-Wu-Zgp"; */
+"q2l-Wu-Zgp.text" = "CVV";
+
+/* Class = "UILabel"; text = "Enter card number"; ObjectID = "qcG-kM-Mbc"; */
+"qcG-kM-Mbc.text" = "कार्ड नंबर दर्ज करें";
+
+/* Class = "UILabel"; text = "(Kindly provide us the Dummy Card details only.)"; ObjectID = "sXf-u1-oNj"; */
+"sXf-u1-oNj.text" = "(कृपया हमें केवल डमी कार्ड विवरण प्रदान करें.)";
+
+/* Class = "UILabel"; text = "CARD HOLDER NAME"; ObjectID = "vjN-K2-8Du"; */
+"vjN-K2-8Du.text" = "कार्डधारक का नाम";
+
+/* Class = "UILabel"; text = "/"; ObjectID = "y6e-um-Uwd"; */
+"y6e-um-Uwd.text" = "/";
+
+/* Class = "UITextField"; placeholder = "CVV / CVC"; ObjectID = "zKr-Zn-TgW"; */
+"zKr-Zn-TgW.placeholder" = "CVV / CVC";
+
+/* Class = "UILabel"; text = "Expiry date"; ObjectID = "znI-Nf-EcU"; */
+"znI-Nf-EcU.text" = "समाप्ति तिथि";

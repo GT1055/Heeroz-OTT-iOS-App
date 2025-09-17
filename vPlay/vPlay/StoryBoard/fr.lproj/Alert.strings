@@ -1,0 +1,138 @@
+
+/* Class = "UIViewController"; title = "No Category Found"; ObjectID = "1DB-v5-jbQ"; */
+"1DB-v5-jbQ.title" = "Aucune catégorie trouvée";
+
+/* Class = "UILabel"; text = "Oops, No Video(s) Found"; ObjectID = "2iP-yH-Moq"; */
+"2iP-yH-Moq.text" = "Oups, aucune vidéo trouvée";
+
+/* Class = "UILabel"; text = "No videos found related to this keyword"; ObjectID = "3o9-cq-gSs"; */
+"3o9-cq-gSs.text" = "Aucune vidéo trouvée liée à ce mot clé";
+
+/* Class = "UIViewController"; title = "No Records Found"; ObjectID = "Aws-DZ-pEi"; */
+"Aws-DZ-pEi.title" = "Aucun enregistrement trouvé";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "BnL-CJ-3LD"; */
+"BnL-CJ-3LD.normalTitle" = "Réessayez";
+
+/* Class = "UILabel"; text = "Oops, No Live Video(s) Available!"; ObjectID = "DzB-hv-86Q"; */
+"DzB-hv-86Q.text" = "Oops, aucune vidéo en direct disponible!";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "Eve-0g-cpj"; */
+"Eve-0g-cpj.normalTitle" = "Réessayez";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "G6c-yg-5OW"; */
+"G6c-yg-5OW.normalTitle" = "Réessayez";
+
+/* Class = "UIViewController"; title = "No Search Result"; ObjectID = "G9T-zx-50b"; */
+"G9T-zx-50b.title" = "Aucun résultat de recherche";
+
+/* Class = "UIViewController"; title = "No Internet"; ObjectID = "Hiz-AD-IPD"; */
+"Hiz-AD-IPD.title" = "Pas d'Internet";
+
+/* Class = "UILabel"; text = "No transcation(s) history"; ObjectID = "IJi-0H-1gM"; */
+"IJi-0H-1gM.text" = "Pas de transcendance (s) historique";
+
+/* Class = "UILabel"; text = "You don't have any notifications right now"; ObjectID = "Jyo-Nq-mIs"; */
+"Jyo-Nq-mIs.text" = "Vous n'avez aucune notification pour l'instant";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "K5C-1t-pRF"; */
+"K5C-1t-pRF.normalTitle" = "Réessayez";
+
+/* Class = "UIViewController"; title = "No History Recived"; ObjectID = "LmP-nO-0Aj"; */
+"LmP-nO-0Aj.title" = "Aucune histoire reçue";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "Lws-lX-68l"; */
+"Lws-lX-68l.normalTitle" = "Réessayez";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "Ngp-Nr-kG4"; */
+"Ngp-Nr-kG4.normalTitle" = "Réessayez";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "Nhr-yM-kDH"; */
+"Nhr-yM-kDH.normalTitle" = "Réessayez";
+
+/* Class = "UIViewController"; title = "CSNoFavourite"; ObjectID = "Ont-LF-Lke"; */
+"Ont-LF-Lke.title" = "CSNoFavourite";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "Q4B-E3-m6T"; */
+"Q4B-E3-m6T.normalTitle" = "Réessayez";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "Q9e-Up-ah8"; */
+"Q9e-Up-ah8.normalTitle" = "Réessayez";
+
+/* Class = "UIViewController"; title = "Video Not Available"; ObjectID = "QFq-u8-JeC"; */
+"QFq-u8-JeC.title" = "Vidéo non disponible";
+
+/* Class = "UILabel"; text = "You have not created any playlists yet!"; ObjectID = "QkN-be-cip"; */
+"QkN-be-cip.text" = "Vous n'avez pas encore créé de playlists!";
+
+/* Class = "UILabel"; text = "Unfortunately this content is no longer available"; ObjectID = "R7r-6R-2hL"; */
+"R7r-6R-2hL.text" = "Malheureusement, ce contenu n'est plus disponible";
+
+/* Class = "UIViewController"; title = "Something Went Worng"; ObjectID = "RRJ-oU-bHn"; */
+"RRJ-oU-bHn.title" = "Quelque chose s'est passé";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "SCF-As-vFV"; */
+"SCF-As-vFV.normalTitle" = "Réessayez";
+
+/* Class = "UILabel"; text = "You have not yet download any offline videos"; ObjectID = "SeQ-uX-mFf"; */
+"SeQ-uX-mFf.text" = "Vous n'avez rien ajouté téléchargé pour afficher en mode hors connexion";
+
+/* Class = "UIViewController"; title = "No Playlist"; ObjectID = "Syr-0h-b9d"; */
+"Syr-0h-b9d.title" = "Aucune playlist";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "Thm-sz-Rbt"; */
+"Thm-sz-Rbt.normalTitle" = "Réessayez";
+
+/* Class = "UIViewController"; title = "CSLiveRecord"; ObjectID = "V8i-gI-q6D"; */
+"V8i-gI-q6D.title" = "CSLiveRecord";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "WEw-3A-sZd"; */
+"WEw-3A-sZd.normalTitle" = "Réessayez";
+
+/* Class = "UIViewController"; title = "CSNotificationRecived"; ObjectID = "ZiR-Kg-6QD"; */
+"ZiR-Kg-6QD.title" = "CSNotificationRecived";
+
+/* Class = "UILabel"; text = "Whoops !"; ObjectID = "bE2-74-rrK"; */
+"bE2-74-rrK.text" = "Oups!";
+
+/* Class = "UIViewController"; title = "No Offline Record"; ObjectID = "bED-kO-Xrf"; */
+"bED-kO-Xrf.title" = "Pas d'enregistrement hors ligne";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "cdX-iJ-3fs"; */
+"cdX-iJ-3fs.normalTitle" = "Réessayez";
+
+/* Class = "UILabel"; text = "No Records Found"; ObjectID = "eor-iM-bB3"; */
+"eor-iM-bB3.text" = "Aucun enregistrement trouvé";
+
+/* Class = "UILabel"; text = "You have not yet added any download"; ObjectID = "g3F-Pe-zKW"; */
+"g3F-Pe-zKW.text" = "Vous n'avez pas encore ajouté de téléchargement";
+
+/* Class = "UILabel"; text = "Please check your internet connection."; ObjectID = "i7F-Nd-Cgf"; */
+"i7F-Nd-Cgf.text" = "S'il vous plait, vérifiez votre connexion internet.";
+
+/* Class = "UILabel"; text = "You have not added any video to favourite yet!"; ObjectID = "j3D-cl-Hs6"; */
+"j3D-cl-Hs6.text" = "Vous n'avez encore ajouté aucune vidéo à vos favoris!";
+
+/* Class = "UIViewController"; title = "No Transcation"; ObjectID = "lGs-g8-IMV"; */
+"lGs-g8-IMV.title" = "Aucune transaction";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "lsd-Mb-Fwp"; */
+"lsd-Mb-Fwp.normalTitle" = "Réessayez";
+
+/* Class = "UILabel"; text = "No videos found in these Category Or Genre"; ObjectID = "m2k-S1-i4g"; */
+"m2k-S1-i4g.text" = "Aucune vidéo trouvée dans ces catégories ou genres";
+
+/* Class = "UILabel"; text = "Something Went Wrong"; ObjectID = "o16-hq-qbE"; */
+"o16-hq-qbE.text" = "Quelque chose s'est mal passé";
+
+/* Class = "UIViewController"; title = "No Download Found"; ObjectID = "sSH-af-IoW"; */
+"sSH-af-IoW.title" = "Aucun téléchargement trouvé";
+
+/* Class = "UIViewController"; title = "No Records Found"; ObjectID = "skz-kG-ODf"; */
+"skz-kG-ODf.title" = "Aucun enregistrement trouvé";
+
+/* Class = "UILabel"; text = "You have not viewed any video(s) recently"; ObjectID = "yTE-pW-A7i"; */
+"yTE-pW-A7i.text" = "Vous n'avez visionné aucune vidéo récemment";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "zhv-By-AfA"; */
+"zhv-By-AfA.normalTitle" = "Réessayez";

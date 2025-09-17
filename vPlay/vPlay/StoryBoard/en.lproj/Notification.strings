@@ -1,0 +1,102 @@
+
+/* Class = "UILabel"; text = "Change your account password"; ObjectID = "0p6-th-zCC"; */
+"0p6-th-zCC.text" = "Change your account password";
+
+/* Class = "UILabel"; text = "Get notified when someone replied to your comment"; ObjectID = "2eT-ZS-cHS"; */
+"2eT-ZS-cHS.text" = "Get notified when someone replied to your comment";
+
+/* Class = "UILabel"; text = "Questions? Comments? We'd love to hear from you please don't hesitate to get in touch"; ObjectID = "3Up-Wv-DiA"; */
+"3Up-Wv-DiA.text" = "Questions? Comments? We'd love to hear from you please don't hesitate to get in touch";
+
+/* Class = "UILabel"; text = "Reply comments "; ObjectID = "5KM-Hu-nhs"; */
+"5KM-Hu-nhs.text" = "Reply comments ";
+
+/* Class = "UILabel"; text = "Enter Your Phone Number"; ObjectID = "5Lg-My-DFf"; */
+"5Lg-My-DFf.text" = "Enter Your Mobile Number";
+
+/* Class = "UITextField"; placeholder = "Enter name"; ObjectID = "5cc-sr-KvC"; */
+"5cc-sr-KvC.placeholder" = "Enter name";
+
+/* Class = "UILabel"; text = "On/Off videos playing automatically"; ObjectID = "COc-xf-alK"; */
+"COc-xf-alK.text" = "On/Off videos playing automatically";
+
+/* Class = "UILabel"; text = "New Videos"; ObjectID = "D2N-Rh-n2z"; */
+"D2N-Rh-n2z.text" = "New Videos";
+
+/* Class = "UILabel"; text = "Leave Your Message Here"; ObjectID = "EGn-89-i37"; */
+"EGn-89-i37.text" = "Leave Your Message Here";
+
+/* Class = "UILabel"; text = "You can cancel your subscription"; ObjectID = "GVP-rc-bRA"; */
+"GVP-rc-bRA.text" = "You can cancel your subscription";
+
+/* Class = "UIButton"; normalTitle = "  Clear All  "; ObjectID = "GWl-Qa-xvJ"; */
+"GWl-Qa-xvJ.normalTitle" = "  Clear All  ";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "I4k-xo-KiD"; */
+"I4k-xo-KiD.normalTitle" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "Je6-Yq-cc8"; */
+"Je6-Yq-cc8.normalTitle" = "Update";
+
+/* Class = "UILabel"; text = "New Password"; ObjectID = "Ksc-PP-2dE"; */
+"Ksc-PP-2dE.text" = "New Password";
+
+/* Class = "UILabel"; text = "Enter Your Name"; ObjectID = "Lei-53-fpH"; */
+"Lei-53-fpH.text" = "Enter Your Name";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "LsB-5m-ozZ"; */
+"LsB-5m-ozZ.text" = "Notifications";
+
+/* Class = "UILabel"; text = "Get notified when new videos added"; ObjectID = "Mfi-vi-4tx"; */
+"Mfi-vi-4tx.text" = "Get notified when new videos added";
+
+/* Class = "UITextField"; placeholder = "Enter email"; ObjectID = "Nlq-yK-lxb"; */
+"Nlq-yK-lxb.placeholder" = "Enter email";
+
+/* Class = "UITextField"; placeholder = "Enter phone number"; ObjectID = "PTn-C1-EQT"; */
+"PTn-C1-EQT.placeholder" = "Enter phone number";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "Twe-ag-eAQ"; */
+"Twe-ag-eAQ.text" = "Change Password";
+
+/* Class = "UILabel"; text = "Autoplay Videos"; ObjectID = "WSE-VD-8fm"; */
+"WSE-VD-8fm.text" = "Autoplay Videos";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Y3o-0S-Iz8"; */
+"Y3o-0S-Iz8.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Current Password"; ObjectID = "Yry-JW-qgU"; */
+"Yry-JW-qgU.text" = "Current Password";
+
+/* Class = "UILabel"; text = "(Max 250 Letters)"; ObjectID = "aeU-dv-iuq"; */
+"aeU-dv-iuq.text" = "(Max 250 Letters)";
+
+/* Class = "UILabel"; text = "+1 091"; ObjectID = "czr-AK-Ldf"; */
+"czr-AK-Ldf.text" = "+1 091";
+
+/* Class = "UILabel"; text = "On/Off message notification"; ObjectID = "gsE-Bu-PvV"; */
+"gsE-Bu-PvV.text" = "On/Off message notification";
+
+/* Class = "UITextField"; placeholder = "Confirm New Password"; ObjectID = "hmj-Eb-dnG"; */
+"hmj-Eb-dnG.placeholder" = "Confirm New Password";
+
+/* Class = "UITextField"; placeholder = "Enter New Password"; ObjectID = "iPE-HI-6nf"; */
+"iPE-HI-6nf.placeholder" = "Enter New Password";
+
+/* Class = "UILabel"; text = "Let's Talk"; ObjectID = "kUt-2r-NaW"; */
+"kUt-2r-NaW.text" = "Let's Talk";
+
+/* Class = "UILabel"; text = "All Notification"; ObjectID = "ruh-ke-Lnc"; */
+"ruh-ke-Lnc.text" = "All Notification";
+
+/* Class = "UILabel"; text = "Subscription"; ObjectID = "sQ7-yt-Gof"; */
+"sQ7-yt-Gof.text" = "Subscription";
+
+/* Class = "UITextField"; placeholder = "Enter Your Current Password"; ObjectID = "w2X-uQ-r3t"; */
+"w2X-uQ-r3t.placeholder" = "Enter Your Current Password";
+
+/* Class = "UILabel"; text = "Enter Your Valid Email ID"; ObjectID = "xd4-6y-9gw"; */
+"xd4-6y-9gw.text" = "Enter Your Email ID";
+
+/* Class = "UILabel"; text = "Confirm New Password"; ObjectID = "z3A-nZ-gYq"; */
+"z3A-nZ-gYq.text" = "Confirm New Password";

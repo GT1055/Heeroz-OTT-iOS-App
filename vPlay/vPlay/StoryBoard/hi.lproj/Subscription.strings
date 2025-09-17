@@ -1,0 +1,150 @@
+
+/* Class = "UILabel"; text = "SILVER"; ObjectID = "33L-q7-evg"; */
+"33L-q7-evg.text" = "चांदी";
+
+/* Class = "UILabel"; text = "Saved card securely for faster transcation (100% secure)"; ObjectID = "7dN-bx-Fgj"; */
+"7dN-bx-Fgj.text" = "तेजी से ट्रांसकेशन के लिए सुरक्षित रूप से सहेजा गया कार्ड (100% सुरक्षित)";
+
+/* Class = "UILabel"; text = "I agree to the Terms & Condition and Privacy Policy"; ObjectID = "8Lh-6N-OBQ"; */
+"8Lh-6N-OBQ.text" = "मैं नियम और शर्त और गोपनीयता नीति से सहमत हूं";
+
+/* Class = "UILabel"; text = "Expiry Date"; ObjectID = "8fq-Q8-4Yg"; */
+"8fq-Q8-4Yg.text" = "समाप्ति तिथि";
+
+/* Class = "UILabel"; text = "2671 xxxx xxxx xxxx"; ObjectID = "9HX-04-4vW"; */
+"9HX-04-4vW.text" = "2671 xxxx xxxx xxxx";
+
+/* Class = "UILabel"; text = "Select the bank"; ObjectID = "9kY-aE-jO8"; */
+"9kY-aE-jO8.text" = "बैंक का चयन करें";
+
+/* Class = "UILabel"; text = "Frequently Asked Questions"; ObjectID = "BlK-JA-Qnh"; */
+"BlK-JA-Qnh.text" = "अक्सर पूछे जाने वाले प्रश्न";
+
+/* Class = "UILabel"; text = "PAYMENT SUCCESSFUL"; ObjectID = "DcG-hL-ROM"; */
+"DcG-hL-ROM.text" = "भुगतान सफल";
+
+/* Class = "UILabel"; text = "Subscription Type"; ObjectID = "Ddl-ge-tQh"; */
+"Ddl-ge-tQh.text" = "सदस्यता प्रकार";
+
+/* Class = "UILabel"; text = "Payment will be charged to iTunes account on purchase confirmation."; ObjectID = "Drb-S2-zfY"; */
+"Drb-S2-zfY.text" = "खरीद पुष्टिकरण पर आईट्यून्स खाते से भुगतान शुल्क लिया जाएगा.";
+
+/* Class = "UILabel"; text = "EXPIRY DATE"; ObjectID = "ILq-OU-hlD"; */
+"ILq-OU-hlD.text" = "समाप्ति तिथि";
+
+/* Class = "UILabel"; text = "Live Streaming"; ObjectID = "IVK-2U-DOk"; */
+"IVK-2U-DOk.text" = "सीधा आ रहा है";
+
+/* Class = "UILabel"; text = "Payment Type"; ObjectID = "IzE-6n-j4z"; */
+"IzE-6n-j4z.text" = "भुगतान के प्रकार";
+
+/* Class = "UILabel"; text = "Select"; ObjectID = "LEU-gk-CI8"; */
+"LEU-gk-CI8.text" = "चुनते हैं";
+
+/* Class = "UILabel"; text = "CARD NUMBER"; ObjectID = "MZp-SO-WEB"; */
+"MZp-SO-WEB.text" = "कार्ड नंबर";
+
+/* Class = "UILabel"; text = "(Kindly provide us the Dummy Bank/Card details. No Live Transaction will be taken place.)"; ObjectID = "Nlq-Nl-nRX"; */
+"Nlq-Nl-nRX.text" = "(कृपया हमें डमी बैंक / कार्ड विवरण प्रदान करें। कोई लाइव लेनदेन नहीं किया जाएगा.)";
+
+/* Class = "UILabel"; text = "Net Banking"; ObjectID = "NpK-Zf-v5G"; */
+"NpK-Zf-v5G.text" = "नेट बैंकिंग";
+
+/* Class = "UILabel"; text = "CARD HOLDER NAME"; ObjectID = "OEo-g8-Yre"; */
+"OEo-g8-Yre.text" = "कार्डधारक का नाम";
+
+/* Class = "UILabel"; text = "Vince Carter"; ObjectID = "PbG-yf-UrY"; */
+"PbG-yf-UrY.text" = "विन्स कार्टर";
+
+/* Class = "UILabel"; text = "03/22"; ObjectID = "SQT-Bd-fuG"; */
+"SQT-Bd-fuG.text" = "03/22";
+
+/* Class = "UILabel"; text = "Get a Full-Fledged Video Experience"; ObjectID = "T9u-YV-sx7"; */
+"T9u-YV-sx7.text" = "एक पूर्ण fledged वीडियो अनुभव प्राप्त करें";
+
+/* Class = "UIButton"; normalTitle = "Pay Securely"; ObjectID = "Tp8-Y1-ggc"; */
+"Tp8-Y1-ggc.normalTitle" = "सुरक्षित रूप से भुगतान करें";
+
+/* Class = "UIButton"; normalTitle = "Pay Securely"; ObjectID = "W2U-kh-kiS"; */
+"W2U-kh-kiS.normalTitle" = "सुरक्षित रूप से भुगतान करें";
+
+/* Class = "UILabel"; text = "Your payment has been processed! details of transcation is shown below."; ObjectID = "XF0-7E-UTk"; */
+"XF0-7E-UTk.text" = "आपका भुगतान संसाधित हो गया है! ट्रांसकेशन का विवरण नीचे दिखाया गया है.";
+
+/* Class = "UIButton"; normalTitle = "Pay Securely"; ObjectID = "aeM-yV-LcY"; */
+"aeM-yV-LcY.normalTitle" = "सुरक्षित रूप से भुगतान करें";
+
+/* Class = "UILabel"; text = "Select your payment method"; ObjectID = "c91-4o-lCu"; */
+"c91-4o-lCu.text" = "अपने भुगतान का तरीका चुनें";
+
+/* Class = "UILabel"; text = "Net Banking"; ObjectID = "cCO-Dy-zi9"; */
+"cCO-Dy-zi9.text" = "नेट बैंकिंग";
+
+/* Class = "UILabel"; text = "Credit / Debit Card"; ObjectID = "dVS-FR-hCl"; */
+"dVS-FR-hCl.text" = "क्रेडिट / डेबिट कार्ड";
+
+/* Class = "UILabel"; text = "Enter Card Holder Name"; ObjectID = "eJ2-6D-7dP"; */
+"eJ2-6D-7dP.text" = "कार्ड धारक नाम दर्ज करें";
+
+/* Class = "UILabel"; text = "Enter Card Number"; ObjectID = "eKw-Fv-55f"; */
+"eKw-Fv-55f.text" = "कार्ड नंबर दर्ज करें";
+
+/* Class = "UILabel"; text = "Subscription will be charged based on the plan you have selected"; ObjectID = "fwa-AX-QAw"; */
+"fwa-AX-QAw.text" = "आपके द्वारा चुनी गई योजना के आधार पर सदस्यता का शुल्क लिया जाएगा";
+
+/* Class = "UILabel"; text = "/"; ObjectID = "hgj-MZ-C8q"; */
+"hgj-MZ-C8q.text" = "/";
+
+/* Class = "UILabel"; text = "Saved Card"; ObjectID = "iUc-01-XZw"; */
+"iUc-01-XZw.text" = "सहेजा गया कार्ड";
+
+/* Class = "UITextField"; placeholder = "YY"; ObjectID = "l77-3I-4GS"; */
+"l77-3I-4GS.placeholder" = "YY";
+
+/* Class = "UITextField"; placeholder = "CVV / CVC"; ObjectID = "mEk-yR-Yg9"; */
+"mEk-yR-Yg9.placeholder" = "CVV / CVC";
+
+/* Class = "UITextField"; placeholder = "MM"; ObjectID = "mzg-a2-GZ6"; */
+"mzg-a2-GZ6.placeholder" = "MM";
+
+/* Class = "UIButton"; normalTitle = "Subscribe Now"; ObjectID = "pEx-EY-1ic"; */
+"pEx-EY-1ic.normalTitle" = "अभी ग्राहक बनें";
+
+/* Class = "UILabel"; text = "Transaction ID"; ObjectID = "pdr-98-6OH"; */
+"pdr-98-6OH.text" = "लेनदेन आईडी";
+
+/* Class = "UILabel"; text = "Watch Online Video"; ObjectID = "q6d-MA-HEK"; */
+"q6d-MA-HEK.text" = "ऑनलाइन वीडियो देखें";
+
+/* Class = "UILabel"; text = "Transcation Time"; ObjectID = "sk0-1g-Vsq"; */
+"sk0-1g-Vsq.text" = "लेनदेन का समय";
+
+/* Class = "UILabel"; text = "(Kindly provide us the Dummy Bank/Card details. No Live Transaction will be taken place.)"; ObjectID = "t5q-rE-Heq"; */
+"t5q-rE-Heq.text" = "(कृपया हमें डमी बैंक / कार्ड विवरण प्रदान करें। कोई लाइव लेनदेन नहीं किया जाएगा.)";
+
+/* Class = "UILabel"; text = "(Kindly provide us the Dummy Bank/Card details. No Live Transaction will be taken place.)"; ObjectID = "vX4-PW-UaL"; */
+"vX4-PW-UaL.text" = "(कृपया हमें डमी बैंक / कार्ड विवरण प्रदान करें। कोई लाइव लेनदेन नहीं किया जाएगा.)";
+
+/* Class = "UILabel"; text = "CVV"; ObjectID = "wd4-Yq-iJ2"; */
+"wd4-Yq-iJ2.text" = "सीवीवी";
+
+/* Class = "UILabel"; text = "ENTER CVV"; ObjectID = "zWN-mf-Oxc"; */
+"zWN-mf-Oxc.text" = "सीवीवी दर्ज करें";
+
+/* Class = "UILabel"; text = "WATCH ORIGINAL SHOWS"; ObjectID = "wQ8-KB-IAV"; */
+"wQ8-KB-IAV.text" = "देखो मूल शो";
+
+/* Class = "UILabel"; text = "LATEST CATALOGUE OF PUNJABI ENTERTAINMENT"; ObjectID = "AsZ-eg-1cx"; */
+"AsZ-eg-1cx.text" = "पुनाजाबी मनोरंजन की नवीनतम श्रेणी";
+
+/* Class = "UILabel"; text = "DOWNLOAD OFFLINE AND WATCH ANYTIME, ANYWHERE"; ObjectID = "Ttw-bI-eLw"; */
+"Ttw-bI-eLw.text" = "किसी भी समय डाउनलोड करें और किसी भी समय, देखें";
+
+/* Class = "UILabel"; text = "AD-FREE CONTENT"; ObjectID = "NQa-dI-9lf"; */
+"NQa-dI-9lf.text" = "विज्ञापन मुक्त सामग्री";
+
+/* Class = "UILabel"; text = "MULTIPLE DEVICES WATCH ON A DEVICE OF YOUR CHOICE"; ObjectID = "Exl-pK-2uB"; */
+"Exl-pK-2uB.text" = "मल्टीप्लेयर डिवाइस आपके विकल्प का एक विकल्प है";
+
+/* Class = "UILabel"; text = "WATCH WITH SUBTITLES"; ObjectID = "0n2-3Q-72k"; */
+"0n2-3Q-72k.text" = "SUBTITLES के साथ देखें";

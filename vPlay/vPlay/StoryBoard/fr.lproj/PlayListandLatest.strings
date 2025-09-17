@@ -1,0 +1,39 @@
+
+/* Class = "UITextField"; placeholder = "Playlist title"; ObjectID = "1OM-7A-Qvz"; */
+"1OM-7A-Qvz.placeholder" = "Titre de la playlist";
+
+/* Class = "UIButton"; normalTitle = "Create"; ObjectID = "4YS-Sq-WdU"; */
+"4YS-Sq-WdU.normalTitle" = "Créer";
+
+/* Class = "UILabel"; text = "Best bollywood movies"; ObjectID = "8C4-yY-WHn"; */
+"8C4-yY-WHn.text" = "Meilleurs films de Bollywood";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "8ee-ks-mwt"; */
+"8ee-ks-mwt.normalTitle" = "Annuler";
+
+/* Class = "UILabel"; text = "FREE"; ObjectID = "AME-Hb-vJK"; */
+"AME-Hb-vJK.text" = "PRIME";
+
+/* Class = "UIButton"; normalTitle = "Create New Playlist"; ObjectID = "FnZ-5t-dde"; */
+"FnZ-5t-dde.normalTitle" = "Créer une nouvelle liste de lecture";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HVS-Zu-6kC"; */
+"HVS-Zu-6kC.text" = "";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "L8K-xe-C71"; */
+"L8K-xe-C71.normalTitle" = "sauvegarder";
+
+/* Class = "UILabel"; text = "Edit Title"; ObjectID = "PQ1-on-qHE"; */
+"PQ1-on-qHE.text" = "Modifier le titre";
+
+/* Class = "UILabel"; text = "999"; ObjectID = "V2H-4V-yUe"; */
+"V2H-4V-yUe.text" = "999";
+
+/* Class = "UITextField"; placeholder = "Enter playlist name"; ObjectID = "ZW0-Go-8zZ"; */
+"ZW0-Go-8zZ.placeholder" = "Entrez le nom de la playlist";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "bq7-Ne-8qk"; */
+"bq7-Ne-8qk.normalTitle" = "Annuler";
+
+/* Class = "UILabel"; text = "or choose an existing Playlist"; ObjectID = "rKI-yQ-QEE"; */
+"rKI-yQ-QEE.text" = "ou choisissez une playlist existante";

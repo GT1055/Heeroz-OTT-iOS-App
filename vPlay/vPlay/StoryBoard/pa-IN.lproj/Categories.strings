@@ -1,0 +1,20 @@
+/* Class = "UIButton"; normalTitle = "VIEW ALL"; ObjectID = "9YI-wD-Hkn"; */
+"9YI-wD-Hkn.normalTitle" = "ਸਾਰੇ ਵੇਖੋ";
+
+/* Class = "UILabel"; text = "No Data"; ObjectID = "CQq-Qd-u32"; */
+"CQq-Qd-u32.text" = "ਕੋਈ ਡਾਟਾ ਨਹੀਂ";
+
+/* Class = "UILabel"; text = "."; ObjectID = "Gcu-l7-G1u"; */
+"Gcu-l7-G1u.text" = ".";
+
+/* Class = "UILabel"; text = "Recent Videos"; ObjectID = "NYa-s7-eL8"; */
+"NYa-s7-eL8.text" = "ਤਾਜ਼ਾ ਵੀਡੀਓ";
+
+/* Class = "UILabel"; text = "No Data available"; ObjectID = "R9I-Kn-qyO"; */
+"R9I-Kn-qyO.text" = "ਕੋਈ ਡਾਟਾ ਉਪਲਬਧ ਨਹੀਂ ਹੈ";
+
+/* Class = "UILabel"; text = "PREMIUM"; ObjectID = "keL-cn-g4G"; */
+"keL-cn-g4G.text" = "ਪ੍ਰੀਮੀਅਮ";
+
+/* Class = "UILabel"; text = "."; ObjectID = "nzb-2n-DiV"; */
+"nzb-2n-DiV.text" = ".";

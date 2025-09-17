@@ -1,0 +1,144 @@
+
+/* Class = "UIViewController"; title = "No Category Found"; ObjectID = "1DB-v5-jbQ"; */
+"1DB-v5-jbQ.title" = "ਕੋਈ ਸ਼੍ਰੇਣੀ ਨਹੀਂ ਮਿਲੀ";
+
+/* Class = "UILabel"; text = "You have not purchased any video(s) yet!"; ObjectID = "288-RE-in8"; */
+"288-RE-in8.text" = "ਤੁਸੀਂ ਅਜੇ ਤੱਕ ਕੋਈ ਵੀ ਵੀਡੀਓ ਨਹੀਂ ਖਰੀਦਿਆ ਹੈ!";
+
+/* Class = "UILabel"; text = "Oops, No Video(s) Found"; ObjectID = "2iP-yH-Moq"; */
+"2iP-yH-Moq.text" = " ਓਹ ਹੋ, ਕੋਈ ਵੀਡਿਓ ਨਹੀਂ ਮਿਲੀਆਂ";
+
+/* Class = "UILabel"; text = "No videos found related to this keyword"; ObjectID = "3o9-cq-gSs"; */
+"3o9-cq-gSs.text" = "ਇਸ ਕੀਵਰਡ ਨਾਲ ਸਬੰਧਤ ਕੋਈ ਵੀ ਵੀਡੀਓ ਨਹੀਂ ਮਿਲਿਆ";
+
+/* Class = "UIViewController"; title = "No Records Found"; ObjectID = "Aws-DZ-pEi"; */
+"Aws-DZ-pEi.title" = "ਕੋਈ ਰਿਕਾਰਡ ਨਹੀਂ ਮਿਲਿਆ";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "BnL-CJ-3LD"; */
+"BnL-CJ-3LD.normalTitle" = "ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ";
+
+/* Class = "UILabel"; text = "Oops, No Live Video(s) Available!"; ObjectID = "DzB-hv-86Q"; */
+"DzB-hv-86Q.text" = "ਓਹ ਹੋ, ਕੋਈ ਲਾਈਵ ਵੀਡੀਓ ਉਪਲਬਧ ਨਹੀਂ ਹੈ!";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "Eve-0g-cpj"; */
+"Eve-0g-cpj.normalTitle" = "ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "G6c-yg-5OW"; */
+"G6c-yg-5OW.normalTitle" = "ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ";
+
+/* Class = "UIViewController"; title = "No Search Result"; ObjectID = "G9T-zx-50b"; */
+"G9T-zx-50b.title" = "ਕੋਈ ਖੋਜ ਨਤੀਜਾ ਨਹੀਂ";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "HYg-vG-yqI"; */
+"HYg-vG-yqI.normalTitle" = "ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ";
+
+/* Class = "UIViewController"; title = "No Internet"; ObjectID = "Hiz-AD-IPD"; */
+"Hiz-AD-IPD.title" = "ਕੋਈ ਇੰਟਰਨੈਟ ਨਹੀਂ";
+
+/* Class = "UILabel"; text = "No transcation(s) history"; ObjectID = "IJi-0H-1gM"; */
+"IJi-0H-1gM.text" = "ਕੋਈ ਸੰਚਾਰ ਇਤਿਹਾਸ ਨਹੀਂ";
+
+/* Class = "UILabel"; text = "You don't have any notifications right now"; ObjectID = "Jyo-Nq-mIs"; */
+"Jyo-Nq-mIs.text" = "ਇਸ ਸਮੇਂ ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਵੀ ਸੂਚਨਾਵਾਂ ਨਹੀਂ ਹਨ";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "K5C-1t-pRF"; */
+"K5C-1t-pRF.normalTitle" = "ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ";
+
+/* Class = "UIViewController"; title = "No History Recived"; ObjectID = "LmP-nO-0Aj"; */
+"LmP-nO-0Aj.title" = "No History Recived";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "Lws-lX-68l"; */
+"Lws-lX-68l.normalTitle" = "ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "Ngp-Nr-kG4"; */
+"Ngp-Nr-kG4.normalTitle" = "ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "Nhr-yM-kDH"; */
+"Nhr-yM-kDH.normalTitle" = "ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ";
+
+/* Class = "UIViewController"; title = "CSNoFavourite"; ObjectID = "Ont-LF-Lke"; */
+"Ont-LF-Lke.title" = "CSNoFavourite";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "Q4B-E3-m6T"; */
+"Q4B-E3-m6T.normalTitle" = "ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "Q9e-Up-ah8"; */
+"Q9e-Up-ah8.normalTitle" = "ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ";
+
+/* Class = "UIViewController"; title = "Video Not Available"; ObjectID = "QFq-u8-JeC"; */
+"QFq-u8-JeC.title" = "ਵੀਡੀਓ ਉਪਲਬਧ ਨਹੀਂ ਹੈ";
+
+/* Class = "UILabel"; text = "You have not created any playlists yet!"; ObjectID = "QkN-be-cip"; */
+"QkN-be-cip.text" = "ਤੁਸੀਂ ਅਜੇ ਕੋਈ ਪਲੇਲਿਸਟਸ ਨਹੀਂ ਬਣਾਈ ਹੈ!";
+
+/* Class = "UILabel"; text = "Unfortunately this content is no longer available"; ObjectID = "R7r-6R-2hL"; */
+"R7r-6R-2hL.text" = "ਬਦਕਿਸਮਤੀ ਨਾਲ ਇਹ ਸਮਗਰੀ ਹੁਣ ਉਪਲਬਧ ਨਹੀਂ ਹੈ";
+
+/* Class = "UIViewController"; title = "Something Went Worng"; ObjectID = "RRJ-oU-bHn"; */
+"RRJ-oU-bHn.title" = "ਗਲਤ ਹੋ ਗਿਆ";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "SCF-As-vFV"; */
+"SCF-As-vFV.normalTitle" = "ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ";
+
+/* Class = "UILabel"; text = "You have not yet added any download(s)"; ObjectID = "SeQ-uX-mFf"; */
+"SeQ-uX-mFf.text" = "ਤੁਸੀਂ ਅਜੇ ਕੋਈ ਡਾਉਨਲੋਡ ਨਹੀਂ ਜੋੜਿਆ";
+
+/* Class = "UIViewController"; title = "No Playlist"; ObjectID = "Syr-0h-b9d"; */
+"Syr-0h-b9d.title" = "ਕੋਈ ਪਲੇਲਿਸਟ ਨਹੀਂ";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "Thm-sz-Rbt"; */
+"Thm-sz-Rbt.normalTitle" = "ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ";
+
+/* Class = "UIViewController"; title = "CSLiveRecord"; ObjectID = "V8i-gI-q6D"; */
+"V8i-gI-q6D.title" = "CSLiveRecord";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "WEw-3A-sZd"; */
+"WEw-3A-sZd.normalTitle" = "ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ";
+
+/* Class = "UIViewController"; title = "CSNotificationRecived"; ObjectID = "ZiR-Kg-6QD"; */
+"ZiR-Kg-6QD.title" = "ਸੀਐਸ ਨੋਟੀਫਿਕੇਸ਼ਨ ਪ੍ਰਾਪਤ ਹੋਇਆ";
+
+/* Class = "UIViewController"; title = "No Offline Record"; ObjectID = "bED-kO-Xrf"; */
+"bED-kO-Xrf.title" = "ਕੋਈ ਆਫਲਾਈਨ ਰਿਕਾਰਡ ਨਹੀਂ";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "cdX-iJ-3fs"; */
+"cdX-iJ-3fs.normalTitle" = "ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ";
+
+/* Class = "UILabel"; text = "No Records Found"; ObjectID = "eor-iM-bB3"; */
+"eor-iM-bB3.text" = "ਕੋਈ ਰਿਕਾਰਡ ਨਹੀਂ ਮਿਲਿਆ";
+
+/* Class = "UILabel"; text = "You have not yet added any download"; ObjectID = "g3F-Pe-zKW"; */
+"g3F-Pe-zKW.text" = "ਤੁਸੀਂ ਅਜੇ ਕੋਈ ਡਾਉਨਲੋਡ ਸ਼ਾਮਲ ਨਹੀਂ ਕੀਤਾ ਹੈ";
+
+/* Class = "UILabel"; text = "Please check your internet connection."; ObjectID = "i7F-Nd-Cgf"; */
+"i7F-Nd-Cgf.text" = "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਇੰਟਰਨੈਟ ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ।";
+
+/* Class = "UILabel"; text = "You have not added any video to favourite yet!"; ObjectID = "j3D-cl-Hs6"; */
+"j3D-cl-Hs6.text" = "ਤੁਸੀਂ ਅਜੇ ਵੀ ਮਨਪਸੰਦ ਵਿੱਚ ਕੋਈ ਵੀਡੀਓ ਸ਼ਾਮਲ ਨਹੀਂ ਕੀਤਾ ਹੈ!";
+
+/* Class = "UIViewController"; title = "No Transcation"; ObjectID = "lGs-g8-IMV"; */
+"lGs-g8-IMV.title" = "ਕੋਈ ਲੈਣ-ਦੇਣ ਨਹੀਂ";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "lsd-Mb-Fwp"; */
+"lsd-Mb-Fwp.normalTitle" = "ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ";
+
+/* Class = "UILabel"; text = "No videos found in these Category Or Genre"; ObjectID = "m2k-S1-i4g"; */
+"m2k-S1-i4g.text" = "ਇਹਨਾਂ ਸ਼੍ਰੇਣੀ ਜਾਂ ਸ਼ੈਲੀਆਂ ਵਿੱਚ ਕੋਈ ਵੀਡੀਓ ਨਹੀਂ ਮਿਲਿਆ";
+
+/* Class = "UILabel"; text = "Something Went Wrong"; ObjectID = "o16-hq-qbE"; */
+"o16-hq-qbE.text" = "ਗਲਤ ਹੋ ਗਿਆ";
+
+/* Class = "UIViewController"; title = "No Purchased Videos"; ObjectID = "sOp-PP-cfo"; */
+"sOp-PP-cfo.title" = "ਕੋਈ ਖਰੀਦਿਆ ਵੀਡਿਓ ਨਹੀਂ";
+
+/* Class = "UIViewController"; title = "No Download Found"; ObjectID = "sSH-af-IoW"; */
+"sSH-af-IoW.title" = "ਕੋਈ ਡਾਉਨਲੋਡ ਨਹੀਂ ਮਿਲੀ";
+
+/* Class = "UIViewController"; title = "No Records Found"; ObjectID = "skz-kG-ODf"; */
+"skz-kG-ODf.title" = "ਕੋਈ ਰਿਕਾਰਡ ਨਹੀਂ ਮਿਲਿਆ";
+
+/* Class = "UILabel"; text = "You have not viewed any video(s) recently"; ObjectID = "yTE-pW-A7i"; */
+"yTE-pW-A7i.text" = "ਤੁਸੀਂ ਹਾਲ ਹੀ ਵਿੱਚ ਕੋਈ ਵੀ ਵੀਡੀਓ ਨਹੀਂ ਵੇਖਿਆ ਹੈ";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "zhv-By-AfA"; */
+"zhv-By-AfA.normalTitle" = "ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ";

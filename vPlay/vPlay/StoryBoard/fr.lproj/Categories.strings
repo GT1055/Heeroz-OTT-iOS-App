@@ -1,0 +1,21 @@
+
+/* Class = "UIButton"; normalTitle = "VIEW ALL"; ObjectID = "9YI-wD-Hkn"; */
+"9YI-wD-Hkn.normalTitle" = "VOIR TOUT";
+
+/* Class = "UILabel"; text = "No Data"; ObjectID = "CQq-Qd-u32"; */
+"CQq-Qd-u32.text" = "Pas de données";
+
+/* Class = "UILabel"; text = "."; ObjectID = "Gcu-l7-G1u"; */
+"Gcu-l7-G1u.text" = ".";
+
+/* Class = "UILabel"; text = "Recent Videos"; ObjectID = "NYa-s7-eL8"; */
+"NYa-s7-eL8.text" = "Vidéos récentes";
+
+/* Class = "UILabel"; text = "No Data available"; ObjectID = "R9I-Kn-qyO"; */
+"R9I-Kn-qyO.text" = "Pas de données disponibles";
+
+/* Class = "UILabel"; text = "FREE"; ObjectID = "keL-cn-g4G"; */
+"keL-cn-g4G.text" = "PRIME";
+
+/* Class = "UILabel"; text = "."; ObjectID = "nzb-2n-DiV"; */
+"nzb-2n-DiV.text" = ".";

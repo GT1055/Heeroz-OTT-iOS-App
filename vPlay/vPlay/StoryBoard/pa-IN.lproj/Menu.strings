@@ -1,0 +1,48 @@
+
+/* Class = "UISearchBar"; placeholder = "Titles, Categories, Genre, People"; ObjectID = "1Vr-d3-GRn"; */
+"1Vr-d3-GRn.placeholder" = "ਸਿਰਲੇਖ,ਸ਼੍ਰੇਣੀਆਂ,ਸ਼ੈਲੀ,ਲੋਕ";
+
+/* Class = "UILabel"; text = "Plan type: Bronze"; ObjectID = "71f-R5-ibm"; */
+"71f-R5-ibm.text" = "ਯੋਜਨਾ ਦੀ ਕਿਸਮ: ਕਾਂਸੀ";
+
+/* Class = "UILabel"; text = "Details"; ObjectID = "Ca1-hQ-9MR"; */
+"Ca1-hQ-9MR.text" = "ਵੇਰਵਾ";
+
+/* Class = "UILabel"; text = "Payment Type"; ObjectID = "DVi-QD-VRB"; */
+"DVi-QD-VRB.text" = "ਭੁਗਤਾਨ ਦੀ ਕਿਸਮ";
+
+/* Class = "UILabel"; text = "PREMIUM"; ObjectID = "EVa-fV-MJp"; */
+"EVa-fV-MJp.text" = "ਪ੍ਰੀਮੀਅਮ";
+
+/* Class = "UILabel"; text = "An Alone Affair3"; ObjectID = "Gda-hD-qfX"; */
+"Gda-hD-qfX.text" = "An Alone Affair3";
+
+/* Class = "UILabel"; text = "Transaction ID"; ObjectID = "S7p-iq-1Y1"; */
+"S7p-iq-1Y1.text" = "ਟ੍ਰਾਂਜੈਕਸ਼ਨ ਆਈਡੀ";
+
+/* Class = "UIButton"; normalTitle = "DOWNLOAD"; ObjectID = "XZu-67-deS"; */
+"XZu-67-deS.normalTitle" = "ਡਾਉਨਲੋਡ";
+
+/* Class = "UILabel"; text = "Net Banking"; ObjectID = "XjP-Af-df7"; */
+"XjP-Af-df7.text" = "ਨੈੱਟ ਬੈਂਕਿੰਗ";
+
+/* Class = "UILabel"; text = "LIVE"; ObjectID = "c4T-UA-E82"; */
+"c4T-UA-E82.text" = "ਲਾਈਵ";
+
+/* Class = "UILabel"; text = "Transaction Time"; ObjectID = "g07-5q-Rdz"; */
+"g07-5q-Rdz.text" = "ਲੈਣ-ਦੇਣ ਦਾ ਸਮਾਂ";
+
+/* Class = "UILabel"; text = "Success"; ObjectID = "huW-jD-sMn"; */
+"huW-jD-sMn.text" = "ਸਫਲਤਾ";
+
+/* Class = "UILabel"; text = "Monthly"; ObjectID = "kqv-CS-MT5"; */
+"kqv-CS-MT5.text" = "ਮਾਸਿਕ";
+
+/* Class = "UILabel"; text = "PREMIUM"; ObjectID = "r5Q-oX-TDs"; */
+"r5Q-oX-TDs.text" = "ਪ੍ਰੀਮੀਅਮ";
+
+/* Class = "UILabel"; text = "Video Name"; ObjectID = "sQh-ON-fe5"; */
+"sQh-ON-fe5.text" = "Video Name";
+
+/* Class = "UILabel"; text = "No videos found related to this keyword"; ObjectID = "x5Y-V8-xpr"; */
+"x5Y-V8-xpr.text" = "ਇਸ ਕੀਵਰਡ ਨਾਲ ਸਬੰਧਤ ਕੋਈ ਵੀ ਵੀਡੀਓ ਨਹੀਂ ਮਿਲਿਆ";
